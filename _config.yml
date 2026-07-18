@@ -2,7 +2,7 @@ title: Tidy Nest Home
 description: >-
   Smart home organization ideas, decor inspiration, and honest product picks
   to make every corner of your home calmer and prettier.
-url: "https://mohamedbenjaber35-bot.github.io"
+url: "https://tidynesthome.github.io"
 baseurl: "/tidy-nest-home"
 permalink: /:title/
 plugins:
