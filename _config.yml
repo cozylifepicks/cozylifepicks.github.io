@@ -2,7 +2,7 @@ title: Cozy Life Picks
 description: >-
   Cozy ideas and smart product picks for your whole life — home, kitchen,
   garden, pets and more. Realistic tips that hold up in daily life.
-url: "https://cozylifepicks.github.io"
+url: "https://cozylifepicks.vercel.app"
 baseurl: ""
 permalink: /:title/
 plugins:
