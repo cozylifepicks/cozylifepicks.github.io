@@ -26,7 +26,7 @@ simple ideas to turn your bedroom into a calm, snuggle-worthy retreat.
 
 </div>
 
-{% include pick.html label="Best First Buy" name="Soft Linen Duvet Cover Set" why="One swap that makes the whole room feel calmer and more expensive — breathable in summer, snug in winter, and it only looks better with age." link="https://www.amazon.com/s?k=linen+duvet+cover+set&tag=tamirugc20-20" %}
+{% include pick.html label="Best First Buy" name="Simple&Opulence 100% Linen Duvet Cover Set" why="Amazon's Overall Pick for linen duvet covers — a trusted bedding brand, breathable in summer, snug in winter, and it only looks better with age." link="https://www.amazon.com/dp/B01IMZLNBE?tag=tamirugc20-20" %}
 
 ## 1. Layer your bedding like a hotel
 

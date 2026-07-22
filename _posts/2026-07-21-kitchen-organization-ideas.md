@@ -26,7 +26,7 @@ to real, everyday cooking.
 
 </div>
 
-{% include pick.html label="Best Overall" name="Clear Airtight Canister Set" why="One cheap swap that instantly makes your whole kitchen look organized — and keeps flour, pasta and coffee fresh for months." link="https://www.amazon.com/s?k=airtight+food+storage+canisters&tag=tamirugc20-20" %}
+{% include pick.html label="Best Overall" name="3-Piece Airtight Flour & Sugar Container Set" why="Amazon's Overall Pick in this category — 4.6 stars, 2,900+ reviews, and 7,000+ bought last month. One cheap swap that instantly makes your whole kitchen look organized." link="https://www.amazon.com/dp/B0DD42PH3T?tag=tamirugc20-20" %}
 
 ## 1. Clear the counters first
 
