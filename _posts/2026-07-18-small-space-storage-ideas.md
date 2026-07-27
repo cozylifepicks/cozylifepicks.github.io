@@ -97,7 +97,9 @@ by the door catches them before they hit the counter.
 Working from a tiny home? A
 [wall-mounted folding desk](https://www.amazon.com/s?k=wall+mounted+folding+desk&tag=tamirugc20-20)
 disappears after work hours — and so does the feeling of living in your
-office.
+office. If you want the full setup, see our
+[13 home office nook ideas](/home-office-nook-ideas/) for corners, closets
+and hallways.
 
 ## 12. Use vertical shoe storage
 

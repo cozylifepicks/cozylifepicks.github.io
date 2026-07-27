@@ -128,3 +128,8 @@ into the [desktop file holder](https://www.amazon.com/s?k=desktop+file+organizer
 You don't need a spare room to work from home comfortably. Start with a narrow
 desk and a good side light in the corner you already have, and the nook will
 earn its space within a week.
+
+If the rest of your home is fighting you for space too, our
+[14 small-space storage ideas](/small-space-storage-ideas/) and
+[14 entryway ideas](/entryway-mudroom-ideas/) tackle the same problem in the
+other rooms.
