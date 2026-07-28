@@ -2,7 +2,7 @@
 layout: post
 title: "14 Cozy Bedroom Ideas That Feel Like a Warm Hug"
 description: "Turn your bedroom into the coziest room in the house with 14 simple ideas — layered bedding, warm lighting, soft textures and calm little touches that help you actually relax."
-image: /images/small-space-hero.jpg
+image: /images/bedroom-hero.jpg
 category: Home
 ---
 
