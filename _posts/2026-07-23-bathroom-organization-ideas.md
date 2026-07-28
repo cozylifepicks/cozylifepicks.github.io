@@ -126,3 +126,7 @@ bathroom feeling like it did on day one.
 You don't need a renovation to love your bathroom. Start with the counter
 tray and the under-sink bins, and the calm, boutique-spa feeling follows
 fast.
+
+If the laundry lives in or next to your bathroom, our
+[13 laundry room ideas under $30](/laundry-room-ideas/) tackle the drying rack
+and hamper problem with the same small-space tricks.

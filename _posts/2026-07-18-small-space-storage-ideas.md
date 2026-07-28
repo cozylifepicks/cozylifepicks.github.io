@@ -122,3 +122,7 @@ donation. Small spaces forgive many things — but not accumulation.
 **The takeaway:** start under the bed and behind the doors (ideas 1–4) — the
 invisible spaces — before buying anything that takes floor room. A tiny home
 that stores things vertically lives like a home twice its size.
+
+Two rooms where these tricks pay off fastest: our
+[13 laundry room ideas under $30](/laundry-room-ideas/) and
+[13 home office nook ideas](/home-office-nook-ideas/).
