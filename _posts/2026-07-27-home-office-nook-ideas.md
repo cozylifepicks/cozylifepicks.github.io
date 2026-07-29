@@ -132,4 +132,5 @@ earn its space within a week.
 If the rest of your home is fighting you for space too, our
 [14 small-space storage ideas](/small-space-storage-ideas/) and
 [14 entryway ideas](/entryway-mudroom-ideas/) tackle the same problem in the
-other rooms.
+other rooms. And when the working day is done, the same corner trick builds a
+[cozy reading nook](/cozy-reading-nook-ideas/) — same chair, very different mood.

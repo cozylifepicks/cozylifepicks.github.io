@@ -130,3 +130,6 @@ night.
 You don't need a whole new bedroom — just a few soft layers and a warmer glow.
 Start with the bedding, the lamp, and a throw, and you'll feel the difference the
 very first night. Sweet dreams.
+
+Got a spare corner in there? A chair, a lamp and a blanket turn it into a
+[cozy reading nook](/cozy-reading-nook-ideas/) — the quietest spot in the house.

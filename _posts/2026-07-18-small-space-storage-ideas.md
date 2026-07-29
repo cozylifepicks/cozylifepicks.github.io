@@ -125,4 +125,6 @@ that stores things vertically lives like a home twice its size.
 
 Two rooms where these tricks pay off fastest: our
 [13 laundry room ideas under $30](/laundry-room-ideas/) and
-[13 home office nook ideas](/home-office-nook-ideas/).
+[13 home office nook ideas](/home-office-nook-ideas/). Once the clutter is
+handled, the corner you freed up makes a perfect
+[cozy reading nook](/cozy-reading-nook-ideas/).
