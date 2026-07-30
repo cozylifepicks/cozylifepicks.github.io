@@ -42,6 +42,8 @@ Under-sink cabinets turn into a jumble fast. A set of
 lets you see exactly what you have — no more buying a third bottle of the
 same lotion because you couldn't find the other two.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=clear+acrylic+bathroom+organizer+bins&tag=tamirugc20-20)
+
 ## 3. Use the back of the door
 
 The inside of the bathroom door is free real estate most people ignore. An
@@ -49,12 +51,16 @@ The inside of the bathroom door is free real estate most people ignore. An
 adds hanging space for towels or robes without a single drill hole — perfect
 for renters.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=over+the+door+towel+rack&tag=tamirugc20-20)
+
 ## 4. Tame the shower shelf
 
 A shower with bottles balanced everywhere never feels calm. A
 [stackable shower caddy](https://www.amazon.com/s?k=stackable+shower+caddy&tag=tamirugc20-20)
 keeps shampoo, conditioner, and soap in one rust-proof spot that actually
 drains.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=stackable+shower+caddy&tag=tamirugc20-20)
 
 ## 5. Add drawer dividers for small stuff
 
@@ -123,9 +129,13 @@ bathroom feeling like it did on day one.
 
 ---
 
-You don't need a renovation to love your bathroom. Start with the counter
-tray and the under-sink bins, and the calm, boutique-spa feeling follows
-fast.
+{% include pick.html label="Start Here" name="Clear Acrylic Organizer Bins" why="If you only buy one thing, make it these. They fix the messiest spot in most bathrooms — the under-sink cabinet — and seeing what you own stops the double-buying for good." link="https://www.amazon.com/s?k=clear+acrylic+bathroom+organizer+bins&tag=tamirugc20-20" %}
+
+You don't need a renovation to love your bathroom. Start with the
+[counter tray](https://www.amazon.com/s?k=bathroom+vanity+tray&tag=tamirugc20-20)
+and the
+[under-sink bins](https://www.amazon.com/s?k=clear+acrylic+bathroom+organizer+bins&tag=tamirugc20-20),
+and the calm, boutique-spa feeling follows fast.
 
 If the laundry lives in or next to your bathroom, our
 [13 laundry room ideas under $30](/laundry-room-ideas/) tackle the drying rack

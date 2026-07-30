@@ -39,6 +39,8 @@ moves that job to the two seconds when you take something off. By Saturday you
 have three ready-made loads instead of one mountain, and the whole day gets
 shorter.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=3+section+laundry+sorter+hamper&tag=tamirugc20-20)
+
 ## 2. Cover the gap between the machines
 
 The four-inch canyon between the washer and dryer swallows socks, dryer
@@ -47,6 +49,8 @@ sheets, and small hands' toys. A
 sits flush across it and turns dead space into a landing strip for the things
 you empty out of pockets.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=laundry+gap+filler+shelf&tag=tamirugc20-20)
+
 ## 3. Dry upward, not outward
 
 A floor drying rack owns the room the moment it opens. An
@@ -54,6 +58,8 @@ A floor drying rack owns the room the moment it opens. An
 hangs on the back of the laundry or bathroom door, holds a surprising number of
 shirts, and folds to almost nothing when you're done. In a narrow room it's the
 single best space trick on this list.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=over+the+door+drying+rack&tag=tamirugc20-20)
 
 ## 4. Put a rod above the machines
 
@@ -133,9 +139,14 @@ seconds.
 
 ---
 
+{% include pick.html label="Start Here" name="3-Section Laundry Sorter" why="Sorting happens in the two seconds it takes to undress, so wash day starts half-done. Every other idea on this list works better once the pile stops forming." link="https://www.amazon.com/s?k=3+section+laundry+sorter+hamper&tag=tamirugc20-20" %}
+
 You don't need a bigger laundry room — you need every stage of the wash to
-have a home. Start with the sorter and the over-the-door rack; between them
-they solve the pile and the drying, which is most of the problem.
+have a home. Start with the
+[sorter](https://www.amazon.com/s?k=3+section+laundry+sorter+hamper&tag=tamirugc20-20)
+and the
+[over-the-door rack](https://www.amazon.com/s?k=over+the+door+drying+rack&tag=tamirugc20-20);
+between them they solve the pile and the drying, which is most of the problem.
 
 If small rooms are fighting you elsewhere, our
 [14 small-space storage ideas](/small-space-storage-ideas/) and

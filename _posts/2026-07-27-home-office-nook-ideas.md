@@ -36,6 +36,8 @@ You need far less wall than you think. A
 gives you a full laptop-plus-notebook surface in roughly the width of an
 armchair, so an unused corner becomes an office without redesigning the room.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=narrow+writing+desk+small+space&tag=tamirugc20-20)
+
 ## 2. Turn a closet into a "cloffice"
 
 An unused closet is the ultimate nook: it already has walls, a shelf, and a
@@ -58,6 +60,8 @@ notes. A [clamp-on desk lamp](https://www.amazon.com/s?k=clamp+on+desk+lamp&tag=
 attaches to the desk edge or a shelf, aims light exactly where you need it,
 and takes up none of your working surface.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=clamp+on+desk+lamp&tag=tamirugc20-20)
+
 ## 5. Get the laptop up to eye level
 
 Looking down at a laptop all day is what makes your neck hurt by 3pm. A
@@ -72,6 +76,8 @@ tangle of black cables. An
 [under-desk cable tray](https://www.amazon.com/s?k=under+desk+cable+management+tray&tag=tamirugc20-20)
 lifts the whole nest off the floor, so the area under the desk stays open and
 easy to vacuum.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=under+desk+cable+management+tray&tag=tamirugc20-20)
 
 ## 7. Build up the wall, not out into the room
 
@@ -125,9 +131,12 @@ into the [desktop file holder](https://www.amazon.com/s?k=desktop+file+organizer
 
 ---
 
-You don't need a spare room to work from home comfortably. Start with a narrow
-desk and a good side light in the corner you already have, and the nook will
-earn its space within a week.
+{% include pick.html label="Start Here" name="Narrow Writing Desk" why="If you only buy one thing, make it the desk — it turns an empty corner into a real workspace, and every other idea on this list builds on it." link="https://www.amazon.com/s?k=narrow+writing+desk+small+space&tag=tamirugc20-20" %}
+
+You don't need a spare room to work from home comfortably. Start with a
+[narrow desk](https://www.amazon.com/s?k=narrow+writing+desk+small+space&tag=tamirugc20-20)
+and a good [side light](https://www.amazon.com/s?k=clamp+on+desk+lamp&tag=tamirugc20-20)
+in the corner you already have, and the nook will earn its space within a week.
 
 If the rest of your home is fighting you for space too, our
 [14 small-space storage ideas](/small-space-storage-ideas/) and

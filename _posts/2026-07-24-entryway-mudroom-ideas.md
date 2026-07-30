@@ -36,6 +36,8 @@ A tangle of shoes by the door is the #1 entryway complaint. A
 gives every pair a shelf underneath and a seat on top for putting them on —
 one piece of furniture solves both problems.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=entryway+shoe+storage+bench&tag=tamirugc20-20)
+
 ## 2. Mount hooks at two heights
 
 A single row of hooks always ends up overloaded. Mounting a
@@ -43,12 +45,16 @@ A single row of hooks always ends up overloaded. Mounting a
 at adult height and a second row lower down for kids means coats and bags
 actually make it onto a hook instead of the floor.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=wall+mounted+coat+hook+rack&tag=tamirugc20-20)
+
 ## 3. Corral keys and mail in one tray
 
 Keys, mail, and sunglasses scattered across a console table create instant
 visual clutter. An
 [entryway key tray](https://www.amazon.com/s?k=entryway+key+tray+organizer&tag=tamirugc20-20)
 gives them one home, so you stop patting your pockets on the way out.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=entryway+key+tray+organizer&tag=tamirugc20-20)
 
 ## 4. Add a slim console table
 
@@ -129,5 +135,13 @@ whole entryway feeling as good as day one.
 
 ---
 
+{% include pick.html label="Start Here" name="Shoe Storage Bench" why="It fixes the biggest problem — the shoe pile — the day it arrives, and gives you a seat by the door as a bonus. Every other idea on this list builds on top of it." link="https://www.amazon.com/s?k=entryway+shoe+storage+bench&tag=tamirugc20-20" %}
+
 You don't need a full mudroom renovation to fix a chaotic entryway. Start with
-the shoe bench and the hook rack, and the rest falls into place fast.
+the [shoe bench](https://www.amazon.com/s?k=entryway+shoe+storage+bench&tag=tamirugc20-20)
+and the [hook rack](https://www.amazon.com/s?k=wall+mounted+coat+hook+rack&tag=tamirugc20-20),
+and the rest falls into place fast.
+
+Once the entryway is under control, the same thinking works one room deeper.
+See our [closet organization ideas](/closet-organization-ideas/) and
+[small-space storage ideas](/small-space-storage-ideas/) for what to tackle next.

@@ -47,6 +47,8 @@ your eyes. If the nook has no socket close by, a rechargeable
 [cordless table lamp](https://www.amazon.com/s?k=cordless+rechargeable+table+lamp&tag=tamirugc20-20)
 solves it without an extension lead running across the floor.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=arc+floor+lamp+reading&tag=tamirugc20-20)
+
 ## 3. Choose a chair you can slouch in, not sit up in
 
 A dining chair with a cushion is not a reading nook. You want an
@@ -64,6 +66,8 @@ paint. It also solves a real problem: sitting still makes you cold within about
 twenty minutes, which is exactly when most people give up and go do the
 dishes.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=chunky+knit+throw+blanket&tag=tamirugc20-20)
+
 ## 5. Give the mug somewhere to go
 
 This is the idea people skip and then wonder why they never use the nook. A
@@ -72,6 +76,8 @@ at armrest height holds a mug, your phone face-down, and the book you're not
 reading yet. In a tight corner, a
 [C-shaped table](https://www.amazon.com/s?k=c+shaped+side+table+slide+under+sofa&tag=tamirugc20-20)
 slides its base under the chair and takes up almost no floor.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=small+round+side+table+for+chair&tag=tamirugc20-20)
 
 ## 6. Put the books within arm's reach
 
@@ -136,7 +142,10 @@ feels like somewhere gets used for reading.
 
 ---
 
-If you only do three of these, do the light, the blanket, and the side table.
+If you only do three of these, do the
+[light](https://www.amazon.com/s?k=arc+floor+lamp+reading&tag=tamirugc20-20), the
+[blanket](https://www.amazon.com/s?k=chunky+knit+throw+blanket&tag=tamirugc20-20), and the
+[side table](https://www.amazon.com/s?k=small+round+side+table+for+chair&tag=tamirugc20-20).
 Between them they fix the three reasons people abandon a reading corner: you
 can't see, you get cold, and there's nowhere to put the tea.
 
