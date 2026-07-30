@@ -135,4 +135,6 @@ Two rooms where these tricks pay off fastest: our
 [13 laundry room ideas under $30](/laundry-room-ideas/) and
 [13 home office nook ideas](/home-office-nook-ideas/). Once the clutter is
 handled, the corner you freed up makes a perfect
-[cozy reading nook](/cozy-reading-nook-ideas/).
+[cozy reading nook](/cozy-reading-nook-ideas/) — or, if you share the place
+with a dog, somewhere to finally put a proper bed: see
+[the best dog beds for small spaces](/best-dog-beds-small-spaces/).

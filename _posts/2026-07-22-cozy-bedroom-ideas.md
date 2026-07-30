@@ -143,3 +143,5 @@ you'll feel the difference the very first night. Sweet dreams.
 
 Got a spare corner in there? A chair, a lamp and a blanket turn it into a
 [cozy reading nook](/cozy-reading-nook-ideas/) — the quietest spot in the house.
+And if the dog sleeps in your room, the right low-profile bed keeps that corner
+calm too: see [the best dog beds for small spaces](/best-dog-beds-small-spaces/).

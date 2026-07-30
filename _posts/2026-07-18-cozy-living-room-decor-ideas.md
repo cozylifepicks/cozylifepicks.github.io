@@ -123,4 +123,6 @@ and [baskets](https://www.amazon.com/s?k=large+woven+baskets+living+room&tag=tam
 
 If there's an unused corner in the room, it's the best seat in the house waiting
 to happen — our [12 cozy reading nook ideas](/cozy-reading-nook-ideas/) turn it
-into somewhere you'll actually sit.
+into somewhere you'll actually sit. And if that corner already belongs to the
+dog, [the best dog beds for small spaces](/best-dog-beds-small-spaces/) keep it
+looking like part of the room instead of an afterthought.
