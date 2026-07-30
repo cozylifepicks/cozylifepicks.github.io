@@ -3,7 +3,7 @@ layout: post
 title: "14 Kitchen Organization Ideas for a Calmer, Tidier Kitchen"
 description: "Make your kitchen easier to cook in with 14 simple organization ideas — drawer dividers, clear canisters, under-sink fixes and smart storage that actually lasts."
 image: /images/kitchen-hero.jpg
-category: Kitchen
+category: Kitchen & Pantry
 ---
 
 *This post contains affiliate links. As an Amazon Associate we earn from
@@ -18,11 +18,11 @@ to real, everyday cooking.
 
 <div class="table-wrap" markdown="1">
 
-| Product | Best for | Why we love it |
-|---|---|---|
-| [Clear airtight canisters](https://www.amazon.com/s?k=airtight+food+storage+canisters&tag=tamirugc20-20) | Pantry staples | See what's low at a glance, keep food fresh |
-| [Bamboo drawer dividers](https://www.amazon.com/s?k=bamboo+drawer+organizer+utensil&tag=tamirugc20-20) | Utensil drawers | Ends the junk-drawer chaos in 10 minutes |
-| [2-tier under-sink organizer](https://www.amazon.com/s?k=under+sink+organizer+2+tier&tag=tamirugc20-20) | Wasted cabinet space | Works around the pipes, doubles your storage |
+| Product | Best for | Why we love it | |
+|---|---|---|---|
+| [Clear airtight canisters](https://www.amazon.com/s?k=airtight+food+storage+canisters&tag=tamirugc20-20) | Pantry staples | See what's low at a glance, keep food fresh | **[Check price →](https://www.amazon.com/s?k=airtight+food+storage+canisters&tag=tamirugc20-20)** |
+| [Bamboo drawer dividers](https://www.amazon.com/s?k=bamboo+drawer+organizer+utensil&tag=tamirugc20-20) | Utensil drawers | Ends the junk-drawer chaos in 10 minutes | **[Check price →](https://www.amazon.com/s?k=bamboo+drawer+organizer+utensil&tag=tamirugc20-20)** |
+| [2-tier under-sink organizer](https://www.amazon.com/s?k=under+sink+organizer+2+tier&tag=tamirugc20-20) | Wasted cabinet space | Works around the pipes, doubles your storage | **[Check price →](https://www.amazon.com/s?k=under+sink+organizer+2+tier&tag=tamirugc20-20)** |
 
 </div>
 
@@ -42,12 +42,16 @@ The junk-drawer feeling usually starts in the utensil drawer. A set of
 gives spoons, spatulas, and whisks their own lanes so you can grab what you need
 without digging.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=bamboo+drawer+organizer+utensil&tag=tamirugc20-20)
+
 ## 3. Tame the under-sink chaos
 
 Under the sink is prime real estate that usually goes to waste. A
 [2-tier under-sink organizer](https://www.amazon.com/s?k=under+sink+organizer+2+tier&tag=tamirugc20-20)
 works around the pipes and turns that dark cave into usable, easy-to-reach
 storage.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=under+sink+organizer+2+tier&tag=tamirugc20-20)
 
 ## 4. Put your spices in a drawer
 
@@ -62,6 +66,8 @@ Flour, sugar, rice, and pasta look tidy and stay fresh in matching
 [clear airtight canisters](https://www.amazon.com/s?k=airtight+food+storage+canisters&tag=tamirugc20-20).
 You'll also see exactly when you're running low, which makes the shopping list
 write itself.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=airtight+food+storage+canisters&tag=tamirugc20-20)
 
 ## 6. Add a lazy Susan to deep cabinets
 
@@ -126,6 +132,15 @@ live — and keeps your hard work from unravelling.
 
 ---
 
+{% include pick.html label="Start Here" name="Clear Airtight Canisters" why="If you only buy one thing from this list, make it these. Decanting your staples tidies the pantry, keeps food fresh, and makes the whole kitchen look organized in one afternoon." link="https://www.amazon.com/s?k=airtight+food+storage+canisters&tag=tamirugc20-20" %}
+
 You don't need a full renovation to love your kitchen. Pick two or three of
-these ideas, give your most-used items a proper home, and the daily flow of
-cooking and cleaning gets easier right away.
+these ideas — start with the [clear airtight canisters](https://www.amazon.com/s?k=airtight+food+storage+canisters&tag=tamirugc20-20)
+and the [bamboo drawer dividers](https://www.amazon.com/s?k=bamboo+drawer+organizer+utensil&tag=tamirugc20-20) —
+give your most-used items a proper home, and the daily flow of cooking and
+cleaning gets easier right away.
+
+Sorting more than one room? The pantry deserves the same treatment — see our
+[pantry organization ideas](/pantry-organization-ideas/) — and if the laundry
+corner is next on your list, our [laundry room ideas](/laundry-room-ideas/)
+use many of the same tricks.

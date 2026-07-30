@@ -18,11 +18,11 @@ simple ideas to turn your bedroom into a calm, snuggle-worthy retreat.
 
 <div class="table-wrap" markdown="1">
 
-| Product | Best for | Why we love it |
-|---|---|---|
-| [Linen duvet cover set](https://www.amazon.com/s?k=linen+duvet+cover+set&tag=tamirugc20-20) | Instant cozy upgrade | Soft, breathable, and looks effortlessly hotel-like |
-| [Warm-white bedside lamp](https://www.amazon.com/s?k=warm+bedside+table+lamp&tag=tamirugc20-20) | A calmer mood | Swaps harsh ceiling light for a soft, sleepy glow |
-| [Chunky knit throw blanket](https://www.amazon.com/s?k=chunky+knit+throw+blanket&tag=tamirugc20-20) | The finishing touch | The layer that makes a bed look (and feel) irresistible |
+| Product | Best for | Why we love it | |
+|---|---|---|---|
+| [Linen duvet cover set](https://www.amazon.com/s?k=linen+duvet+cover+set&tag=tamirugc20-20) | Instant cozy upgrade | Soft, breathable, and looks effortlessly hotel-like | **[Check price →](https://www.amazon.com/s?k=linen+duvet+cover+set&tag=tamirugc20-20)** |
+| [Warm-white bedside lamp](https://www.amazon.com/s?k=warm+bedside+table+lamp&tag=tamirugc20-20) | A calmer mood | Swaps harsh ceiling light for a soft, sleepy glow | **[Check price →](https://www.amazon.com/s?k=warm+bedside+table+lamp&tag=tamirugc20-20)** |
+| [Chunky knit throw blanket](https://www.amazon.com/s?k=chunky+knit+throw+blanket&tag=tamirugc20-20) | The finishing touch | The layer that makes a bed look (and feel) irresistible | **[Check price →](https://www.amazon.com/s?k=chunky+knit+throw+blanket&tag=tamirugc20-20)** |
 
 </div>
 
@@ -35,6 +35,8 @@ Cozy beds are all about layers. Start with a soft
 then add a quilt folded at the foot and a couple of textured pillows. Layers
 add depth — and make the bed the inviting centerpiece of the room.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=linen+duvet+cover+set&tag=tamirugc20-20)
+
 ## 2. Swap harsh light for a warm glow
 
 Overhead lighting kills a cozy mood. A
@@ -42,12 +44,16 @@ Overhead lighting kills a cozy mood. A
 (look for 2700K bulbs) turns the room soft and sleepy the second you switch it
 on. Your brain reads warm light as "time to relax."
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=warm+bedside+table+lamp&tag=tamirugc20-20)
+
 ## 3. Add a chunky throw blanket
 
 The fastest way to make a bed look irresistible is a
 [chunky knit throw](https://www.amazon.com/s?k=chunky+knit+throw+blanket&tag=tamirugc20-20)
 draped across the corner. It's cozy to grab on a cool night and instantly makes
 the whole room feel finished.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=chunky+knit+throw+blanket&tag=tamirugc20-20)
 
 ## 4. Put a soft rug underfoot
 
@@ -127,9 +133,13 @@ night.
 
 ---
 
+{% include pick.html label="Start Here" name="Linen Duvet Cover Set" why="If you only buy one thing, make it this — the bed is the biggest thing in the room, and soft breathable linen changes how the whole space feels the first night you sleep under it." link="https://www.amazon.com/s?k=linen+duvet+cover+set&tag=tamirugc20-20" %}
+
 You don't need a whole new bedroom — just a few soft layers and a warmer glow.
-Start with the bedding, the lamp, and a throw, and you'll feel the difference the
-very first night. Sweet dreams.
+Start with the [bedding](https://www.amazon.com/s?k=linen+duvet+cover+set&tag=tamirugc20-20),
+the [lamp](https://www.amazon.com/s?k=warm+bedside+table+lamp&tag=tamirugc20-20), and a
+[throw](https://www.amazon.com/s?k=chunky+knit+throw+blanket&tag=tamirugc20-20), and
+you'll feel the difference the very first night. Sweet dreams.
 
 Got a spare corner in there? A chair, a lamp and a blanket turn it into a
 [cozy reading nook](/cozy-reading-nook-ideas/) — the quietest spot in the house.

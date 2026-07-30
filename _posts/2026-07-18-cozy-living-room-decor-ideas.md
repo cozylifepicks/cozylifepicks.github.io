@@ -3,7 +3,7 @@ layout: post
 title: "12 Cozy Living Room Ideas That Secretly Hide the Clutter"
 description: "Make your living room feel warm and put-together with these 12 cozy decor ideas that double as clutter storage — ottomans, baskets, ladder shelves, and more."
 image: /images/living-hero.jpg
-category: Living room
+category: Home
 ---
 
 *This post contains affiliate links. As an Amazon Associate we earn from
@@ -18,11 +18,11 @@ the remotes, cables, blankets, and toys.
 
 <div class="table-wrap" markdown="1">
 
-| Product | Best for | Why we love it |
-|---|---|---|
-| [Storage ottoman](https://www.amazon.com/s?k=storage+ottoman+coffee+table&tag=tamirugc20-20) | Biggest single upgrade | A coffee table, footrest, and blanket chest in one |
-| [Woven storage baskets](https://www.amazon.com/s?k=large+woven+baskets+living+room&tag=tamirugc20-20) | Hiding toys & throws | Looks like decor, works like a closet |
-| [Warm table lamp](https://www.amazon.com/s?k=warm+table+lamp+living+room&tag=tamirugc20-20) | Instant cozy mood | Swaps flat overhead light for a golden-hour glow |
+| Product | Best for | Why we love it | |
+|---|---|---|---|
+| [Storage ottoman](https://www.amazon.com/s?k=storage+ottoman+coffee+table&tag=tamirugc20-20) | Biggest single upgrade | A coffee table, footrest, and blanket chest in one | **[Check price →](https://www.amazon.com/s?k=storage+ottoman+coffee+table&tag=tamirugc20-20)** |
+| [Woven storage baskets](https://www.amazon.com/s?k=large+woven+baskets+living+room&tag=tamirugc20-20) | Hiding toys & throws | Looks like decor, works like a closet | **[Check price →](https://www.amazon.com/s?k=large+woven+baskets+living+room&tag=tamirugc20-20)** |
+| [Warm table lamp](https://www.amazon.com/s?k=warm+table+lamp+living+room&tag=tamirugc20-20) | Instant cozy mood | Swaps flat overhead light for a golden-hour glow | **[Check price →](https://www.amazon.com/s?k=warm+table+lamp+living+room&tag=tamirugc20-20)** |
 
 </div>
 
@@ -35,12 +35,16 @@ The MVP of every tidy living room. A
 is a coffee table, footrest, and blanket chest at once — clutter goes in, cozy
 comes out.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=storage+ottoman+coffee+table&tag=tamirugc20-20)
+
 ## 2. Style with woven baskets
 
 Two or three large
 [woven baskets](https://www.amazon.com/s?k=large+woven+baskets+living+room&tag=tamirugc20-20)
 by the sofa or under a console table look like decor but work like closets:
 throws, magazines, kids' toys, gone in ten seconds.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=large+woven+baskets+living+room&tag=tamirugc20-20)
 
 ## 3. Add a ladder shelf
 
@@ -60,6 +64,8 @@ Overhead light flattens everything. A
 [warm table lamp](https://www.amazon.com/s?k=warm+table+lamp+living+room&tag=tamirugc20-20)
 or two, plus a string of soft lights on a shelf, creates the golden-hour glow
 that makes a room feel instantly cozier.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=warm+table+lamp+living+room&tag=tamirugc20-20)
 
 ## 6. Use a tray to corral the coffee table
 
@@ -108,9 +114,12 @@ everything else look intentional.
 
 ---
 
+{% include pick.html label="Start Here" name="Storage Ottoman" why="If you only buy one thing from this list, make it this. It hides the blankets, remotes, and toys while working as your coffee table and footrest — no other single piece changes the room as much." link="https://www.amazon.com/s?k=storage+ottoman+coffee+table&tag=tamirugc20-20" %}
+
 **The takeaway:** cozy and tidy aren't opposites — they're teammates. Start
-with the storage ottoman and baskets (ideas 1–2), and let your decor do the
-organizing for you.
+with the [storage ottoman](https://www.amazon.com/s?k=storage+ottoman+coffee+table&tag=tamirugc20-20)
+and [baskets](https://www.amazon.com/s?k=large+woven+baskets+living+room&tag=tamirugc20-20)
+(ideas 1–2), and let your decor do the organizing for you.
 
 If there's an unused corner in the room, it's the best seat in the house waiting
 to happen — our [12 cozy reading nook ideas](/cozy-reading-nook-ideas/) turn it

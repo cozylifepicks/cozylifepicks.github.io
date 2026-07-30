@@ -3,7 +3,7 @@ layout: post
 title: "15 Pantry Organization Ideas That Actually Work"
 description: "Transform a messy pantry into a calm, functional space with these 15 realistic pantry organization ideas — clear bins, labels, lazy Susans, and more."
 image: /images/pantry-hero.jpg
-category: Pantry
+category: Kitchen & Pantry
 ---
 
 *This post contains affiliate links. As an Amazon Associate we earn from
@@ -18,11 +18,11 @@ not just in photos.
 
 <div class="table-wrap" markdown="1">
 
-| Product | Best for | Why we love it |
-|---|---|---|
-| [Clear storage bins](https://www.amazon.com/s?k=clear+pantry+storage+bins&tag=tamirugc20-20) | Seeing what you have | Cuts overbuying and food waste at a glance |
-| [Airtight food containers](https://www.amazon.com/s?k=airtight+food+storage+containers+set&tag=tamirugc20-20) | Dry goods freshness | Keeps flour, rice and cereal fresh far longer |
-| [Lazy Susan turntable](https://www.amazon.com/s?k=lazy+susan+turntable+pantry&tag=tamirugc20-20) | Deep corner shelves | Brings the forgotten back row to the front |
+| Product | Best for | Why we love it | |
+|---|---|---|---|
+| [Clear storage bins](https://www.amazon.com/s?k=clear+pantry+storage+bins&tag=tamirugc20-20) | Seeing what you have | Cuts overbuying and food waste at a glance | **[Check price →](https://www.amazon.com/s?k=clear+pantry+storage+bins&tag=tamirugc20-20)** |
+| [Airtight food containers](https://www.amazon.com/s?k=airtight+food+storage+containers+set&tag=tamirugc20-20) | Dry goods freshness | Keeps flour, rice and cereal fresh far longer | **[Check price →](https://www.amazon.com/s?k=airtight+food+storage+containers+set&tag=tamirugc20-20)** |
+| [Lazy Susan turntable](https://www.amazon.com/s?k=lazy+susan+turntable+pantry&tag=tamirugc20-20) | Deep corner shelves | Brings the forgotten back row to the front | **[Check price →](https://www.amazon.com/s?k=lazy+susan+turntable+pantry&tag=tamirugc20-20)** |
 
 </div>
 
@@ -35,11 +35,15 @@ Decanting isn't just for looks. When snacks, pasta, and baking supplies live in
 you can see what you have at a glance — which means less overbuying and less
 food waste.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=clear+pantry+storage+bins&tag=tamirugc20-20)
+
 ## 2. Use airtight containers for dry goods
 
 Flour, rice, cereal, and sugar stay fresh far longer in
 [airtight food storage containers](https://www.amazon.com/s?k=airtight+food+storage+containers+set&tag=tamirugc20-20).
 Pick one matching set so everything stacks cleanly.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=airtight+food+storage+containers+set&tag=tamirugc20-20)
 
 ## 3. Label everything
 
@@ -53,6 +57,8 @@ the right spot.
 Deep corners are where sauces and oils go to be forgotten. A
 [lazy Susan turntable](https://www.amazon.com/s?k=lazy+susan+turntable+pantry&tag=tamirugc20-20)
 brings the back row to the front with one spin.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=lazy+susan+turntable+pantry&tag=tamirugc20-20)
 
 ## 5. Go vertical with shelf risers
 
@@ -122,5 +128,9 @@ strays, wipe shelves, note what's running low — keeps the whole pantry working
 
 ---
 
-**The takeaway:** start with clear bins and labels (ideas 1–3), then add one
+{% include pick.html label="Start Here" name="Clear Pantry Storage Bins" why="If you only buy one thing from this list, make it these. Being able to see everything at a glance is what makes every other idea here actually stick." link="https://www.amazon.com/s?k=clear+pantry+storage+bins&tag=tamirugc20-20" %}
+
+**The takeaway:** start with [clear bins](https://www.amazon.com/s?k=clear+pantry+storage+bins&tag=tamirugc20-20) and [labels](https://www.amazon.com/s?k=label+maker+for+home+organization&tag=tamirugc20-20) (ideas 1–3), then add one
 upgrade a week. In a month your pantry will run itself.
+
+Sorting out more than just the pantry? Our [kitchen organization ideas](/kitchen-organization-ideas/) cover the rest of the room, and if space is tight all over, these [small-space storage ideas](/small-space-storage-ideas/) work in every corner of the house.

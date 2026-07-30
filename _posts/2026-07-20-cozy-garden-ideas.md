@@ -18,11 +18,11 @@ that make any outdoor space feel warm, calm, and lived-in.
 
 <div class="table-wrap" markdown="1">
 
-| Product | Best for | Why we love it |
-|---|---|---|
-| [Solar string lights](https://www.amazon.com/s?k=solar+string+lights+outdoor&tag=tamirugc20-20) | Instant atmosphere | Charges itself all day, glows all evening, no wiring |
-| [Weather-resistant lounge chair](https://www.amazon.com/s?k=outdoor+lounge+chair+weather+resistant&tag=tamirugc20-20) | A reason to go outside | One good deep-seat chair beats a full set you never use |
-| [Outdoor area rug](https://www.amazon.com/s?k=outdoor+patio+rug&tag=tamirugc20-20) | Defining the space | Turns hard concrete into a real outdoor "room" |
+| Product | Best for | Why we love it | |
+|---|---|---|---|
+| [Solar string lights](https://www.amazon.com/s?k=solar+string+lights+outdoor&tag=tamirugc20-20) | Instant atmosphere | Charges itself all day, glows all evening, no wiring | **[Check price →](https://www.amazon.com/s?k=solar+string+lights+outdoor&tag=tamirugc20-20)** |
+| [Weather-resistant lounge chair](https://www.amazon.com/s?k=outdoor+lounge+chair+weather+resistant&tag=tamirugc20-20) | A reason to go outside | One good deep-seat chair beats a full set you never use | **[Check price →](https://www.amazon.com/s?k=outdoor+lounge+chair+weather+resistant&tag=tamirugc20-20)** |
+| [Outdoor area rug](https://www.amazon.com/s?k=outdoor+patio+rug&tag=tamirugc20-20) | Defining the space | Turns hard concrete into a real outdoor "room" | **[Check price →](https://www.amazon.com/s?k=outdoor+patio+rug&tag=tamirugc20-20)** |
 
 </div>
 
@@ -35,6 +35,8 @@ Before anything else, give yourself a reason to go outside. A
 with a deep seat invites you to actually stay a while. One good chair beats a
 full set you never use.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=outdoor+lounge+chair+weather+resistant&tag=tamirugc20-20)
+
 ## 2. Add a soft outdoor rug
 
 A rug instantly turns a hard patio into a room. An
@@ -42,12 +44,16 @@ A rug instantly turns a hard patio into a room. An
 defines the space, hides tired concrete, and feels good underfoot on warm
 evenings.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=outdoor+patio+rug&tag=tamirugc20-20)
+
 ## 3. String up warm lights
 
 Nothing says cozy like a canopy of little lights. Warm-white
 [solar string lights](https://www.amazon.com/s?k=solar+string+lights+outdoor&tag=tamirugc20-20)
 charge themselves during the day and glow all evening — no outlet or wiring
 needed.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=solar+string+lights+outdoor&tag=tamirugc20-20)
 
 ## 4. Layer in throw pillows and a blanket
 
@@ -121,6 +127,15 @@ lazy weekend afternoon.
 
 ---
 
-The secret to a cozy garden isn't square footage — it's soft light, a
-comfortable seat, and a few living things to tend. Start with one or two of
+{% include pick.html label="Start Here" name="Solar String Lights" why="If you only buy one thing from this list, make it this. One string of warm lights changes how your whole garden feels after sunset, and since they charge themselves there is nothing to wire or remember." link="https://www.amazon.com/s?k=solar+string+lights+outdoor&tag=tamirugc20-20" %}
+
+The secret to a cozy garden isn't square footage — it's
+[soft light](https://www.amazon.com/s?k=solar+string+lights+outdoor&tag=tamirugc20-20), a
+[comfortable seat](https://www.amazon.com/s?k=outdoor+lounge+chair+weather+resistant&tag=tamirugc20-20),
+and a few living things to tend. Start with one or two of
 these, and your backyard will pull you outside more than you'd expect.
+
+Making the inside of your home just as inviting? These
+[cozy reading nook ideas](/cozy-reading-nook-ideas/) create the same kind of
+retreat indoors, and our [cozy living room decor ideas](/cozy-living-room-decor-ideas/)
+carry the warmth through the rest of the house.

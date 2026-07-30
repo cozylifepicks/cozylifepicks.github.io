@@ -18,11 +18,11 @@ that still looks like part of your home instead of a pet store.
 
 <div class="table-wrap" markdown="1">
 
-| Product | Best for | Why we love it |
-|---|---|---|
-| [Cave-style cat bed](https://www.amazon.com/s?k=cat+cave+bed&tag=tamirugc20-20) | A bed they'll actually use | Feels hidden and warm — keeps fur off your cushions |
-| [Wooden cat tree](https://www.amazon.com/s?k=modern+wooden+cat+tree&tag=tamirugc20-20) | Window-side climbing | Covers climbing, scratching and window-watching at once |
-| [Cat water fountain](https://www.amazon.com/s?k=cat+water+fountain+quiet&tag=tamirugc20-20) | Health & hydration | Gets even stubborn cats drinking more |
+| Product | Best for | Why we love it | |
+|---|---|---|---|
+| [Cave-style cat bed](https://www.amazon.com/s?k=cat+cave+bed&tag=tamirugc20-20) | A bed they'll actually use | Feels hidden and warm — keeps fur off your cushions | **[Check price →](https://www.amazon.com/s?k=cat+cave+bed&tag=tamirugc20-20)** |
+| [Wooden cat tree](https://www.amazon.com/s?k=modern+wooden+cat+tree&tag=tamirugc20-20) | Window-side climbing | Covers climbing, scratching and window-watching at once | **[Check price →](https://www.amazon.com/s?k=modern+wooden+cat+tree&tag=tamirugc20-20)** |
+| [Cat water fountain](https://www.amazon.com/s?k=cat+water+fountain+quiet&tag=tamirugc20-20) | Health & hydration | Gets even stubborn cats drinking more | **[Check price →](https://www.amazon.com/s?k=cat+water+fountain+quiet&tag=tamirugc20-20)** |
 
 </div>
 
@@ -35,12 +35,16 @@ Cats want to feel hidden and warm. A
 gives them both — and keeps the fur off your cushions. Place it against a
 wall, never in the middle of the room.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=cat+cave+bed&tag=tamirugc20-20)
+
 ## 2. Add a cat tree near the window
 
 A window seat is cat television. A
 [wooden cat tree](https://www.amazon.com/s?k=modern+wooden+cat+tree&tag=tamirugc20-20)
 by the window covers three cat needs at once: climbing, scratching, and
 judging the neighbors.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=modern+wooden+cat+tree&tag=tamirugc20-20)
 
 ## 3. Or mount a window perch
 
@@ -84,6 +88,8 @@ Many cats drink too little. A
 with running water gets even stubborn cats drinking more — better for their
 kidneys, fewer vet visits.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=cat+water+fountain+quiet&tag=tamirugc20-20)
+
 ## 9. Hide the litter box beautifully
 
 A [litter box enclosure](https://www.amazon.com/s?k=litter+box+enclosure+furniture&tag=tamirugc20-20)
@@ -111,6 +117,17 @@ wash, instead of your throw pillows.
 
 ---
 
-**The takeaway:** start with the bed by the window and a scratching post
+{% include pick.html label="Start Here" name="Cave-Style Cat Bed" why="If you only buy one thing, make it this — a bed your cat actually sleeps in is what turns a corner into their corner. Everything else builds on that." link="https://www.amazon.com/s?k=cat+cave+bed&tag=tamirugc20-20" %}
+
+**The takeaway:** start with the
+[bed](https://www.amazon.com/s?k=cat+cave+bed&tag=tamirugc20-20) by the window
+and a [scratching post](https://www.amazon.com/s?k=tall+sisal+scratching+post&tag=tamirugc20-20)
 (ideas 1–4) — that covers sleeping, watching, and scratching. Add one comfort
 upgrade a week, and within a month the sofa is yours again.
+
+Making the rest of the room just as inviting for the humans? Our
+[cozy reading nook ideas](/cozy-reading-nook-ideas/) and
+[cozy living room decor ideas](/cozy-living-room-decor-ideas/) pair nicely
+with a cat corner — you'll both have a favorite spot. And if there's a dog in
+the house too, the same corner logic applies to them: see
+[the best dog beds for small spaces](/best-dog-beds-small-spaces/).

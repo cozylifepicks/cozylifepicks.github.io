@@ -3,7 +3,7 @@ layout: post
 title: "14 Small-Space Storage Ideas That Make a Tiny Home Feel Twice as Big"
 description: "No storage room? No problem. These 14 small-space storage ideas — under-bed boxes, wall shelves, over-door organizers — make tiny apartments feel twice as big."
 image: /images/small-space-hero.jpg
-category: Small spaces
+category: Small Spaces
 ---
 
 *This post contains affiliate links. As an Amazon Associate we earn from
@@ -18,11 +18,11 @@ space you have finally feels like enough.
 
 <div class="table-wrap" markdown="1">
 
-| Product | Best for | Why we love it |
-|---|---|---|
-| [Under-bed storage containers](https://www.amazon.com/s?k=under+bed+storage+containers+with+wheels&tag=tamirugc20-20) | Biggest hidden closet | Swallows off-season clothes and shoes, invisible but reachable |
-| [Floating shelves](https://www.amazon.com/s?k=floating+shelves+set&tag=tamirugc20-20) | Empty walls | Moves books and boxes off every flat surface |
-| [Storage ottoman](https://www.amazon.com/s?k=storage+ottoman&tag=tamirugc20-20) | Furniture that hides things | A footrest, seat, and blanket chest in one |
+| Product | Best for | Why we love it | |
+|---|---|---|---|
+| [Under-bed storage containers](https://www.amazon.com/s?k=under+bed+storage+containers+with+wheels&tag=tamirugc20-20) | Biggest hidden closet | Swallows off-season clothes and shoes, invisible but reachable | **[Check price →](https://www.amazon.com/s?k=under+bed+storage+containers+with+wheels&tag=tamirugc20-20)** |
+| [Floating shelves](https://www.amazon.com/s?k=floating+shelves+set&tag=tamirugc20-20) | Empty walls | Moves books and boxes off every flat surface | **[Check price →](https://www.amazon.com/s?k=floating+shelves+set&tag=tamirugc20-20)** |
+| [Storage ottoman](https://www.amazon.com/s?k=storage+ottoman&tag=tamirugc20-20) | Furniture that hides things | A footrest, seat, and blanket chest in one | **[Check price →](https://www.amazon.com/s?k=storage+ottoman&tag=tamirugc20-20)** |
 
 </div>
 
@@ -34,6 +34,8 @@ It's the biggest hidden closet you own.
 [Under-bed storage containers](https://www.amazon.com/s?k=under+bed+storage+containers+with+wheels&tag=tamirugc20-20)
 with wheels swallow off-season clothes, spare bedding, and shoes — invisible
 but reachable.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=under+bed+storage+containers+with+wheels&tag=tamirugc20-20)
 
 ## 2. Raise the bed a few inches
 
@@ -48,6 +50,8 @@ Empty walls are wasted rooms. A few
 above the desk, sofa, or toilet move books, plants, and boxes off every flat
 surface.
 
+→ [See current options on Amazon](https://www.amazon.com/s?k=floating+shelves+set&tag=tamirugc20-20)
+
 ## 4. Use the back of every door
 
 An [over-the-door organizer](https://www.amazon.com/s?k=over+the+door+organizer+pockets&tag=tamirugc20-20)
@@ -59,6 +63,8 @@ suddenly you have four extra cabinets.
 A [storage ottoman](https://www.amazon.com/s?k=storage+ottoman&tag=tamirugc20-20)
 is a footrest, guest seat, and blanket chest in one. In a small home, every
 piece of furniture should moonlight as storage.
+
+→ [See current options on Amazon](https://www.amazon.com/s?k=storage+ottoman&tag=tamirugc20-20)
 
 ## 6. Add a slim rolling cart
 
@@ -119,7 +125,9 @@ donation. Small spaces forgive many things — but not accumulation.
 
 ---
 
-**The takeaway:** start under the bed and behind the doors (ideas 1–4) — the
+{% include pick.html label="Start Here" name="Under-bed storage containers" why="Every home already owns this space — it just sits empty. Wheeled boxes under the bed clear more visible clutter in one afternoon than anything else on this list." link="https://www.amazon.com/s?k=under+bed+storage+containers+with+wheels&tag=tamirugc20-20" %}
+
+**The takeaway:** start [under the bed](https://www.amazon.com/s?k=under+bed+storage+containers+with+wheels&tag=tamirugc20-20) and [behind the doors](https://www.amazon.com/s?k=over+the+door+organizer+pockets&tag=tamirugc20-20) (ideas 1–4) — the
 invisible spaces — before buying anything that takes floor room. A tiny home
 that stores things vertically lives like a home twice its size.
 
