@@ -20,11 +20,11 @@ they matter.
 
 <div class="table-wrap" markdown="1">
 
-| Product | Best for | Why we love it |
-|---|---|---|
-| [Arc floor reading lamp](https://www.amazon.com/s?k=arc+floor+lamp+reading&tag=tamirugc20-20) | Any corner | Leans the light over your shoulder without needing a table or a socket nearby |
-| [Chunky knit throw blanket](https://www.amazon.com/s?k=chunky+knit+throw+blanket&tag=tamirugc20-20) | Instant cozy | The one thing that makes a chair look like a nook instead of furniture |
-| [Small round side table](https://www.amazon.com/s?k=small+round+side+table+for+chair&tag=tamirugc20-20) | Mug + book | Without a landing spot for the tea, you stop sitting there |
+| Product | Best for | Why we love it | |
+|---|---|---|---|
+| [Arc floor reading lamp](https://www.amazon.com/s?k=arc+floor+lamp+reading&tag=tamirugc20-20) | Any corner | Leans the light over your shoulder without needing a table or a socket nearby | **[Check price →](https://www.amazon.com/s?k=arc+floor+lamp+reading&tag=tamirugc20-20)** |
+| [Chunky knit throw blanket](https://www.amazon.com/s?k=chunky+knit+throw+blanket&tag=tamirugc20-20) | Instant cozy | The one thing that makes a chair look like a nook instead of furniture | **[Check price →](https://www.amazon.com/s?k=chunky+knit+throw+blanket&tag=tamirugc20-20)** |
+| [Small round side table](https://www.amazon.com/s?k=small+round+side+table+for+chair&tag=tamirugc20-20) | Mug + book | Without a landing spot for the tea, you stop sitting there | **[Check price →](https://www.amazon.com/s?k=small+round+side+table+for+chair&tag=tamirugc20-20)** |
 
 </div>
 

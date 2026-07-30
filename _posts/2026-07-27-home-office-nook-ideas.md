@@ -19,11 +19,11 @@ that work in real, small homes.
 
 <div class="table-wrap" markdown="1">
 
-| Product | Best for | Why we love it |
-|---|---|---|
-| [Narrow writing desk](https://www.amazon.com/s?k=narrow+writing+desk+small+space&tag=tamirugc20-20) | Tight corners | Real desk surface in about 40 inches of wall |
-| [Clamp-on desk lamp](https://www.amazon.com/s?k=clamp+on+desk+lamp&tag=tamirugc20-20) | Small desktops | Great light without stealing any desk space |
-| [Under-desk cable tray](https://www.amazon.com/s?k=under+desk+cable+management+tray&tag=tamirugc20-20) | Cable chaos | Hides the wire nest so the nook still looks like a home |
+| Product | Best for | Why we love it | |
+|---|---|---|---|
+| [Narrow writing desk](https://www.amazon.com/s?k=narrow+writing+desk+small+space&tag=tamirugc20-20) | Tight corners | Real desk surface in about 40 inches of wall | **[Check price →](https://www.amazon.com/s?k=narrow+writing+desk+small+space&tag=tamirugc20-20)** |
+| [Clamp-on desk lamp](https://www.amazon.com/s?k=clamp+on+desk+lamp&tag=tamirugc20-20) | Small desktops | Great light without stealing any desk space | **[Check price →](https://www.amazon.com/s?k=clamp+on+desk+lamp&tag=tamirugc20-20)** |
+| [Under-desk cable tray](https://www.amazon.com/s?k=under+desk+cable+management+tray&tag=tamirugc20-20) | Cable chaos | Hides the wire nest so the nook still looks like a home | **[Check price →](https://www.amazon.com/s?k=under+desk+cable+management+tray&tag=tamirugc20-20)** |
 
 </div>
 

@@ -18,11 +18,11 @@ that hold up in daily life, not just on the day you clean.
 
 <div class="table-wrap" markdown="1">
 
-| Product | Best for | Why we love it |
-|---|---|---|
-| [Clear acrylic organizer bins](https://www.amazon.com/s?k=clear+acrylic+bathroom+organizer+bins&tag=tamirugc20-20) | Under-sink chaos | See everything at a glance, no more digging |
-| [Over-the-door towel rack](https://www.amazon.com/s?k=over+the+door+towel+rack&tag=tamirugc20-20) | Small bathrooms | Adds storage with zero drilling |
-| [Stackable shower caddy](https://www.amazon.com/s?k=stackable+shower+caddy&tag=tamirugc20-20) | Shampoo & soap clutter | Ends the shelf-of-bottles look for good |
+| Product | Best for | Why we love it | |
+|---|---|---|---|
+| [Clear acrylic organizer bins](https://www.amazon.com/s?k=clear+acrylic+bathroom+organizer+bins&tag=tamirugc20-20) | Under-sink chaos | See everything at a glance, no more digging | **[Check price →](https://www.amazon.com/s?k=clear+acrylic+bathroom+organizer+bins&tag=tamirugc20-20)** |
+| [Over-the-door towel rack](https://www.amazon.com/s?k=over+the+door+towel+rack&tag=tamirugc20-20) | Small bathrooms | Adds storage with zero drilling | **[Check price →](https://www.amazon.com/s?k=over+the+door+towel+rack&tag=tamirugc20-20)** |
+| [Stackable shower caddy](https://www.amazon.com/s?k=stackable+shower+caddy&tag=tamirugc20-20) | Shampoo & soap clutter | Ends the shelf-of-bottles look for good | **[Check price →](https://www.amazon.com/s?k=stackable+shower+caddy&tag=tamirugc20-20)** |
 
 </div>
 

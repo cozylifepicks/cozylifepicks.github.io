@@ -20,11 +20,11 @@ biggest difference.
 
 <div class="table-wrap" markdown="1">
 
-| Product | Best for | Why we love it |
-|---|---|---|
-| [Sorting laundry hamper](https://www.amazon.com/s?k=3+section+laundry+sorter+hamper&tag=tamirugc20-20) | The pile problem | Sorting happens as you undress, so wash day stops being a chore |
-| [Over-the-door drying rack](https://www.amazon.com/s?k=over+the+door+drying+rack&tag=tamirugc20-20) | Tiny rooms | Full drying space that takes zero floor and folds flat |
-| [Washer and dryer gap filler](https://www.amazon.com/s?k=laundry+gap+filler+shelf&tag=tamirugc20-20) | Lost socks | Covers the gap that eats socks, dryer sheets, and your patience |
+| Product | Best for | Why we love it | |
+|---|---|---|---|
+| [Sorting laundry hamper](https://www.amazon.com/s?k=3+section+laundry+sorter+hamper&tag=tamirugc20-20) | The pile problem | Sorting happens as you undress, so wash day stops being a chore | **[Check price →](https://www.amazon.com/s?k=3+section+laundry+sorter+hamper&tag=tamirugc20-20)** |
+| [Over-the-door drying rack](https://www.amazon.com/s?k=over+the+door+drying+rack&tag=tamirugc20-20) | Tiny rooms | Full drying space that takes zero floor and folds flat | **[Check price →](https://www.amazon.com/s?k=over+the+door+drying+rack&tag=tamirugc20-20)** |
+| [Washer and dryer gap filler](https://www.amazon.com/s?k=laundry+gap+filler+shelf&tag=tamirugc20-20) | Lost socks | Covers the gap that eats socks, dryer sheets, and your patience | **[Check price →](https://www.amazon.com/s?k=laundry+gap+filler+shelf&tag=tamirugc20-20)** |
 
 </div>
 

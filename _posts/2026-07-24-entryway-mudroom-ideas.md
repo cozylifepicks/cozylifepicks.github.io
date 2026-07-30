@@ -19,11 +19,11 @@ through daily.
 
 <div class="table-wrap" markdown="1">
 
-| Product | Best for | Why we love it |
-|---|---|---|
-| [Shoe storage bench](https://www.amazon.com/s?k=entryway+shoe+storage+bench&tag=tamirugc20-20) | Shoe piles | Seating + storage in one footprint |
-| [Wall-mounted hook rack](https://www.amazon.com/s?k=wall+mounted+coat+hook+rack&tag=tamirugc20-20) | Coats & bags | Zero floor space, always in reach |
-| [Entryway drop tray](https://www.amazon.com/s?k=entryway+key+tray+organizer&tag=tamirugc20-20) | Keys & mail | One spot means you never lose your keys again |
+| Product | Best for | Why we love it | |
+|---|---|---|---|
+| [Shoe storage bench](https://www.amazon.com/s?k=entryway+shoe+storage+bench&tag=tamirugc20-20) | Shoe piles | Seating + storage in one footprint | **[Check price →](https://www.amazon.com/s?k=entryway+shoe+storage+bench&tag=tamirugc20-20)** |
+| [Wall-mounted hook rack](https://www.amazon.com/s?k=wall+mounted+coat+hook+rack&tag=tamirugc20-20) | Coats & bags | Zero floor space, always in reach | **[Check price →](https://www.amazon.com/s?k=wall+mounted+coat+hook+rack&tag=tamirugc20-20)** |
+| [Entryway drop tray](https://www.amazon.com/s?k=entryway+key+tray+organizer&tag=tamirugc20-20) | Keys & mail | One spot means you never lose your keys again | **[Check price →](https://www.amazon.com/s?k=entryway+key+tray+organizer&tag=tamirugc20-20)** |
 
 </div>
 
