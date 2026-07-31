@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "14 Cozy Bedroom Ideas That Feel Like a Warm Hug"
-description: "Turn your bedroom into the coziest room in the house with 14 simple ideas — layered bedding, warm lighting, soft textures and calm little touches that help you actually relax."
+title: "14 Warm and Cozy Bedroom Ideas That Feel Like a Hug"
+description: "Warm cozy bedroom ideas that turn your bedroom into the calmest room in the house — layered bedding, warm lighting, soft textures and little touches that help you actually relax."
 image: /images/bedroom-hero.jpg
 category: Home
 ---
@@ -10,9 +10,10 @@ category: Home
 qualifying purchases, at no extra cost to you.*
 
 Your bedroom should be the one room that hugs you back at the end of the day.
-The good news: cozy isn't about a big budget or a full makeover — it's about
-layers, warm light, and a few soft touches in the right spots. Here are 14
-simple ideas to turn your bedroom into a calm, snuggle-worthy retreat.
+The good news: warm and cozy bedroom ideas rarely need a big budget or a full
+makeover — it's about layers, warm light, and a few soft touches in the right
+spots. Here are 14 simple ideas to turn your bedroom into a calm,
+snuggle-worthy retreat.
 
 **In a hurry? These 3 changes make the biggest difference:**
 
