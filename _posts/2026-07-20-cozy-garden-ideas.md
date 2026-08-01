@@ -135,6 +135,10 @@ The secret to a cozy garden isn't square footage — it's
 and a few living things to tend. Start with one or two of
 these, and your backyard will pull you outside more than you'd expect.
 
+No garden, just a balcony or a concrete slab? The same ideas scale down — see
+our [14 small patio and balcony ideas](/small-patio-balcony-ideas/) for the
+version that works in two square metres.
+
 Making the inside of your home just as inviting? These
 [cozy reading nook ideas](/cozy-reading-nook-ideas/) create the same kind of
 retreat indoors, and our [cozy living room decor ideas](/cozy-living-room-decor-ideas/)

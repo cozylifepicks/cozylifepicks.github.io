@@ -137,4 +137,7 @@ Two rooms where these tricks pay off fastest: our
 handled, the corner you freed up makes a perfect
 [cozy reading nook](/cozy-reading-nook-ideas/) — or, if you share the place
 with a dog, somewhere to finally put a proper bed: see
-[the best dog beds for small spaces](/best-dog-beds-small-spaces/).
+[the best dog beds for small spaces](/best-dog-beds-small-spaces/). If the
+overflow has been quietly living on your balcony, our
+[14 small patio and balcony ideas](/small-patio-balcony-ideas/) turn that space
+back into a room.
