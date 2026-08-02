@@ -11,8 +11,9 @@ qualifying purchases, at no extra cost to you.*
 
 Cats claim the sofa, the laundry pile, and that one cardboard box — but with a
 little planning, they'll happily claim a corner you actually designed for
-them. These 12 ideas create a cat corner that your cat genuinely uses, and
-that still looks like part of your home instead of a pet store.
+them. The best cat corner ideas create a cat corner that your cat genuinely
+uses, and that still looks like part of your home instead of a pet store.
+Here are 12 to steal.
 
 **Short on time? Start with these 3:**
 
