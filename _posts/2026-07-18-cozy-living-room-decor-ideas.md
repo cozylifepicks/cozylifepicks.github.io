@@ -125,4 +125,8 @@ If there's an unused corner in the room, it's the best seat in the house waiting
 to happen — our [12 cozy reading nook ideas](/cozy-reading-nook-ideas/) turn it
 into somewhere you'll actually sit. And if that corner already belongs to the
 dog, [the best dog beds for small spaces](/best-dog-beds-small-spaces/) keep it
-looking like part of the room instead of an afterthought.
+looking like part of the room instead of an afterthought. Cats claim the good
+corners too — our [12 cozy cat corner ideas](/cozy-cat-corner-ideas/) give them
+one that suits the room. And when you're ready to carry the same warm, layered
+feeling into the rest of the house, start with our
+[14 warm and cozy bedroom ideas](/cozy-bedroom-ideas/).

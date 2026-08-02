@@ -130,4 +130,7 @@ Making the rest of the room just as inviting for the humans? Our
 [cozy living room decor ideas](/cozy-living-room-decor-ideas/) pair nicely
 with a cat corner — you'll both have a favorite spot. And if there's a dog in
 the house too, the same corner logic applies to them: see
-[the best dog beds for small spaces](/best-dog-beds-small-spaces/).
+[the best dog beds for small spaces](/best-dog-beds-small-spaces/). If your cat
+would rather be outside, our
+[14 cozy garden ideas](/cozy-garden-ideas/) build the same kind of sheltered,
+sunny spot in the backyard.

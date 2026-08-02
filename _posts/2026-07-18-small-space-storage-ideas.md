@@ -140,4 +140,7 @@ with a dog, somewhere to finally put a proper bed: see
 [the best dog beds for small spaces](/best-dog-beds-small-spaces/). If the
 overflow has been quietly living on your balcony, our
 [14 small patio and balcony ideas](/small-patio-balcony-ideas/) turn that space
-back into a room.
+back into a room. The two rooms where a few extra inches matter most are the
+pantry and the bathroom — our
+[15 pantry organization ideas](/pantry-organization-ideas/) and
+[12 bathroom organization ideas](/bathroom-organization-ideas/) go deeper on both.

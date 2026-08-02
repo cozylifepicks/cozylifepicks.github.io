@@ -151,4 +151,7 @@ between them they solve the pile and the drying, which is most of the problem.
 If small rooms are fighting you elsewhere, our
 [14 small-space storage ideas](/small-space-storage-ideas/) and
 [12 bathroom organization ideas](/bathroom-organization-ideas/) use the same
-tricks in the rooms right next door.
+tricks in the rooms right next door. The two other rooms that pile up fastest
+are the kitchen and the front door — see our
+[kitchen organization ideas](/kitchen-organization-ideas/) and
+[14 entryway ideas that end the shoe pile](/entryway-mudroom-ideas/).

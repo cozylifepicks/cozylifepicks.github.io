@@ -156,4 +156,7 @@ awkward corners, and the
 [home office nook ideas](/home-office-nook-ideas/) use the identical trick in a
 corner that has to earn its keep. In summer, the same light-and-blanket formula
 works outdoors — that's the whole idea behind our
-[14 small patio and balcony ideas](/small-patio-balcony-ideas/).
+[14 small patio and balcony ideas](/small-patio-balcony-ideas/). If the nook is
+going in the bedroom, our
+[14 warm and cozy bedroom ideas](/cozy-bedroom-ideas/) get the lighting and
+layers right in the rest of the room too.
