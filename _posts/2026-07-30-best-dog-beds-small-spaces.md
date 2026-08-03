@@ -185,4 +185,7 @@ the other half of the household, the
 [14 small-space storage ideas](/small-space-storage-ideas/) free up the floor
 you're about to give to a dog bed, and the
 [cozy living room ideas](/cozy-living-room-decor-ideas/) show how to make a pet
-corner look like it was always meant to be there.
+corner look like it was always meant to be there. Once you've chosen the bed,
+our [12 cozy dog corner ideas](/cozy-dog-corner-ideas/) cover everything that
+goes around it — the basket, the blanket and the spot that finally beats
+the sofa.
