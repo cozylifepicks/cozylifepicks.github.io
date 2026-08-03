@@ -134,3 +134,9 @@ strays, wipe shelves, note what's running low — keeps the whole pantry working
 upgrade a week. In a month your pantry will run itself.
 
 Sorting out more than just the pantry? Our [kitchen organization ideas](/kitchen-organization-ideas/) cover the rest of the room, and if space is tight all over, these [small-space storage ideas](/small-space-storage-ideas/) work in every corner of the house.
+
+The clear-bin-and-label habit travels further than you would think. It is exactly
+what calms the under-sink cabinet in our
+[14 bathroom organization ideas](/bathroom-organization-ideas/), and it is how the
+detergent shelf stays tidy in our
+[13 laundry room ideas under $30](/laundry-room-ideas/).

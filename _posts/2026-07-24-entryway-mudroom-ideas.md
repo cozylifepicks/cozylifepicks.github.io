@@ -145,3 +145,9 @@ and the rest falls into place fast.
 Once the entryway is under control, the same thinking works one room deeper.
 See our [closet organization ideas](/closet-organization-ideas/) and
 [small-space storage ideas](/small-space-storage-ideas/) for what to tackle next.
+
+If the pile by the door is half laundry and half dog, two more guides finish the
+job: our [13 laundry room ideas under $30](/laundry-room-ideas/) sort the basket
+that never makes it upstairs, and our
+[12 cozy dog corner ideas](/cozy-dog-corner-ideas/) give the leads, towels and
+muddy paws a proper home instead of the hallway floor.

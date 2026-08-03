@@ -140,3 +140,11 @@ and the calm, boutique-spa feeling follows fast.
 If the laundry lives in or next to your bathroom, our
 [13 laundry room ideas under $30](/laundry-room-ideas/) tackle the drying rack
 and hamper problem with the same small-space tricks.
+
+Most of what works here works everywhere else in a small home, too. The
+back-of-the-door and vertical-shelf tricks are the backbone of our
+[14 small-space storage ideas](/small-space-storage-ideas/), the same bin-and-label
+habit is what keeps our [12 closet organization ideas](/closet-organization-ideas/)
+looking tidy months later, and if the morning bottleneck is really the front door
+rather than the sink, start with the
+[14 entryway and mudroom ideas](/entryway-mudroom-ideas/) instead.

@@ -144,3 +144,10 @@ Sorting more than one room? The pantry deserves the same treatment — see our
 [pantry organization ideas](/pantry-organization-ideas/) — and if the laundry
 corner is next on your list, our [laundry room ideas](/laundry-room-ideas/)
 use many of the same tricks.
+
+The two rooms people tackle straight after the kitchen are the bathroom and the
+awkward leftover corners: our
+[14 bathroom organization ideas](/bathroom-organization-ideas/) reuse the same
+clear-bin-and-label habit under the sink, and our
+[14 small-space storage ideas](/small-space-storage-ideas/) cover everywhere a
+cupboard simply will not fit.

@@ -128,3 +128,9 @@ Sorting out more than just the closet? Our
 [14 small-space storage ideas](/small-space-storage-ideas/) tackle the rest of
 a tight home, and our [cozy bedroom ideas](/cozy-bedroom-ideas/) carry the
 same calm into the room around it.
+
+Two more places the same shelf-and-bin thinking pays off: a spare closet makes a
+surprisingly good desk, which is idea one in our
+[13 home office nook ideas](/home-office-nook-ideas/), and the coats and shoes
+that never fit the closet belong in the
+[14 entryway and mudroom ideas](/entryway-mudroom-ideas/).
