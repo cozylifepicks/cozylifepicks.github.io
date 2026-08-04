@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "12 Cozy Cat Corner Ideas Your Cat Will Actually Use"
-description: "Cat corner ideas your cat will actually use — 12 cozy setups with beds, cat trees, window perches and clever storage that still looks good in your living room."
+description: "Cosy cat corner ideas your cat will actually use — 12 cozy setups with beds, cat trees, window perches and clever storage that still looks good in your living room."
 image: /images/cat-corner-hero.jpg
 category: Pets
 ---
@@ -11,9 +11,9 @@ qualifying purchases, at no extra cost to you.*
 
 Cats claim the sofa, the laundry pile, and that one cardboard box — but with a
 little planning, they'll happily claim a corner you actually designed for
-them. The best cat corner ideas create a cat corner that your cat genuinely
-uses, and that still looks like part of your home instead of a pet store.
-Here are 12 to steal.
+them. The best cat corner ideas — whether you spell it cosy or cozy — create a
+cat corner that your cat genuinely uses, and that still looks like part of your
+home instead of a pet store. Here are 12 to steal.
 
 **Short on time? Start with these 3:**
 

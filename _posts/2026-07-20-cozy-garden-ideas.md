@@ -11,8 +11,9 @@ qualifying purchases, at no extra cost to you.*
 
 A garden doesn't have to be big to feel like a getaway. With a few soft lights,
 a comfortable place to sit, and some green in the right spots, even a small
-patio or balcony can become the coziest corner of your home. Here are 14 ideas
-that make any outdoor space feel warm, calm, and lived-in.
+patio or balcony can become the coziest corner of your home. Call them cosy
+garden ideas or cozy ones — the trick is the same. Here are 14 that make any
+outdoor space feel warm, calm, and lived-in.
 
 **Short on time? Start with these 3:**
 

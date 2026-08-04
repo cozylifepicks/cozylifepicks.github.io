@@ -11,7 +11,7 @@ qualifying purchases, at no extra cost to you.*
 
 The coziest living rooms have a secret: they hold just as much stuff as messy
 ones. The difference is that everything has a beautiful place to hide. These
-12 ideas add warmth and texture to your living room — while quietly swallowing
+12 cosy living room ideas add warmth and texture — while quietly swallowing
 the remotes, cables, blankets, and toys.
 
 **Short on time? Start with these 3:**
