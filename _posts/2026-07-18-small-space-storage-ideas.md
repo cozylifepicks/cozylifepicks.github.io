@@ -143,4 +143,6 @@ overflow has been quietly living on your balcony, our
 back into a room. The two rooms where a few extra inches matter most are the
 pantry and the bathroom — our
 [15 pantry organization ideas](/pantry-organization-ideas/) and
-[12 bathroom organization ideas](/bathroom-organization-ideas/) go deeper on both.
+[12 bathroom organization ideas](/bathroom-organization-ideas/) go deeper on both,
+and our [best bathroom storage buys for small spaces](/best-bathroom-storage-small-spaces/)
+picks the exact shelves and racks worth the money in a tiny bathroom.

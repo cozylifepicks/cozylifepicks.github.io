@@ -133,4 +133,6 @@ Two more places the same shelf-and-bin thinking pays off: a spare closet makes a
 surprisingly good desk, which is idea one in our
 [13 home office nook ideas](/home-office-nook-ideas/), and the coats and shoes
 that never fit the closet belong in the
-[14 entryway and mudroom ideas](/entryway-mudroom-ideas/).
+[14 entryway and mudroom ideas](/entryway-mudroom-ideas/). The same
+shelf-first logic decides what to buy for a tiny bathroom, too — see our
+[best bathroom storage buys for small spaces](/best-bathroom-storage-small-spaces/).

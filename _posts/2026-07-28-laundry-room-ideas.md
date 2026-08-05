@@ -154,4 +154,7 @@ If small rooms are fighting you elsewhere, our
 tricks in the rooms right next door. The two other rooms that pile up fastest
 are the kitchen and the front door — see our
 [kitchen organization ideas](/kitchen-organization-ideas/) and
-[14 entryway ideas that end the shoe pile](/entryway-mudroom-ideas/).
+[14 entryway ideas that end the shoe pile](/entryway-mudroom-ideas/). If the
+bathroom next door is the room with nowhere to put anything, our
+[best bathroom storage buys for small spaces](/best-bathroom-storage-small-spaces/)
+covers what's actually worth buying.

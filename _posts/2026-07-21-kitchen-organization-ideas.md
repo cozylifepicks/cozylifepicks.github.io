@@ -150,4 +150,6 @@ awkward leftover corners: our
 [14 bathroom organization ideas](/bathroom-organization-ideas/) reuse the same
 clear-bin-and-label habit under the sink, and our
 [14 small-space storage ideas](/small-space-storage-ideas/) cover everywhere a
-cupboard simply will not fit.
+cupboard simply will not fit. If the bathroom is the one you dread, our
+[best bathroom storage buys for small spaces](/best-bathroom-storage-small-spaces/)
+names the ten pieces worth paying for.

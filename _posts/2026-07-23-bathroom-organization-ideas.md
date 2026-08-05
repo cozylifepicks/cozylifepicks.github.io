@@ -147,4 +147,7 @@ back-of-the-door and vertical-shelf tricks are the backbone of our
 habit is what keeps our [12 closet organization ideas](/closet-organization-ideas/)
 looking tidy months later, and if the morning bottleneck is really the front door
 rather than the sink, start with the
-[14 entryway and mudroom ideas](/entryway-mudroom-ideas/) instead.
+[14 entryway and mudroom ideas](/entryway-mudroom-ideas/) instead. And when
+you're ready to actually buy the shelves and racks these ideas rely on, our
+[best bathroom storage buys for small spaces](/best-bathroom-storage-small-spaces/)
+compares the ten that earn their space.
