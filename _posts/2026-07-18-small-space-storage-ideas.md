@@ -11,8 +11,10 @@ qualifying purchases, at no extra cost to you.*
 
 Small homes don't have a space problem — they have a surface problem. When
 everything lives on counters, floors, and chairs, even a lovely apartment
-feels cramped. These 14 ideas move your stuff up, under, and behind, so the
-space you have finally feels like enough.
+feels cramped. Most of the best small storage room ideas aren't really about
+having a storage room at all: they're about using the space you already have
+above, under and behind everything else. These 14 ideas move your stuff up,
+under, and behind, so the space you have finally feels like enough.
 
 **Short on time? Start with these 3:**
 
