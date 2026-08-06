@@ -3,6 +3,7 @@ layout: post
 title: "14 Small-Space Storage Ideas That Make a Tiny Home Feel Twice as Big"
 description: "No storage room? No problem. These 14 small-space storage ideas — under-bed boxes, wall shelves, over-door organizers — make tiny apartments feel twice as big."
 image: /images/small-space-hero.jpg
+pin_image: /images/small-space-pin-1.jpg
 category: Small Spaces
 ---
 

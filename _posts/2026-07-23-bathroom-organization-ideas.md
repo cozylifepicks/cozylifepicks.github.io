@@ -3,6 +3,7 @@ layout: post
 title: "14 Bathroom Organization Ideas That Feel Like a Boutique Spa"
 description: "Turn a cluttered bathroom into a calm, spa-like retreat with 14 realistic organization ideas — clear bins, over-the-door racks, drawer dividers and more."
 image: /images/bathroom-hero.jpg
+pin_image: /images/bathroom-pin-3.jpg
 category: Home
 ---
 

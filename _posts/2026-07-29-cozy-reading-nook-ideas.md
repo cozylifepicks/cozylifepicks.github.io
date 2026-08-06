@@ -3,6 +3,7 @@ layout: post
 title: "12 Cozy Reading Nook Ideas That Feel Like a Tiny Escape"
 description: "You don't need a spare room to build a reading nook. These 12 ideas turn any awkward corner into the spot everyone in the house quietly fights over."
 image: /images/reading-nook-hero.jpg
+pin_image: /images/reading-nook-pin-1.jpg
 category: Home
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "12 Cozy Dog Corner Ideas That Finally Keep Them Off the Sofa"
 description: "Dog corner ideas that work in a real home: 12 ways to give your dog a spot they actually choose, so the sofa stops being their bed and the room still looks good."
 image: /images/dog-corner-hero.jpg
+pin_image: /images/dog-corner-small-pin-1.jpg
 category: Pets
 ---
 

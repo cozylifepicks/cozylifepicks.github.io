@@ -3,6 +3,7 @@ layout: post
 title: "12 Cozy Living Room Ideas That Secretly Hide the Clutter"
 description: "Make your living room feel warm and put-together with these 12 cozy decor ideas that double as clutter storage — ottomans, baskets, ladder shelves, and more."
 image: /images/living-hero.jpg
+pin_image: /images/living-pin-1.jpg
 category: Home
 ---
 

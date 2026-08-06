@@ -3,6 +3,7 @@ layout: post
 title: "12 Closet Organization Ideas for a Calm, Boutique-Style Wardrobe"
 description: "Turn an overstuffed closet into a calm, boutique-style wardrobe with these 12 realistic closet organization ideas — matching hangers, shelf dividers, bins, and more."
 image: /images/closet-hero.jpg
+pin_image: /images/closet-pin-1.jpg
 category: Home
 ---
 

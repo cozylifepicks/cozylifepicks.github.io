@@ -3,6 +3,7 @@ layout: post
 title: "The Best Dog Beds for Small Spaces in 2026 (9 Cozy Picks)"
 description: "A small home doesn't mean your dog sleeps badly. We compared the dog bed styles that fit tight corners, and these 9 are the ones worth the floor space."
 image: /images/dog-beds-hero.jpg
+pin_image: /images/dogbed-pin-1.jpg
 category: Pets
 guide: true
 ---

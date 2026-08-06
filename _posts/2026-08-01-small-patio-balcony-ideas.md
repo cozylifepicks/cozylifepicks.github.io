@@ -3,6 +3,7 @@ layout: post
 title: "14 Small Patio and Balcony Ideas That Feel Like an Outdoor Room"
 description: "A tiny balcony or patio can be the best seat in the house. These 14 small patio and balcony ideas turn a bare concrete slab into a room you actually use every evening."
 image: /images/patio-hero.jpg
+pin_image: /images/balcony-garden-pin-1.jpg
 category: Garden
 ---
 

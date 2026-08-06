@@ -3,6 +3,7 @@ layout: post
 title: "No Spare Room? 13 Home Office Nook Ideas That Actually Work"
 description: "Turn a corner, hallway, or closet into a real home office. 13 small home office nook ideas with desks, lighting, and storage that fit tiny spaces."
 image: /images/home-office-hero.jpg
+pin_image: /images/home-office-pin-1.jpg
 category: Small Spaces
 ---
 

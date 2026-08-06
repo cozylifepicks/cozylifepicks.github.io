@@ -3,6 +3,7 @@ layout: post
 title: "The Best Bathroom Storage Buys for Small Spaces in 2026 (10 Picks)"
 description: "Small bathroom storage ideas that actually fit. We compared the racks, shelves and baskets worth buying for a tiny bathroom — and the 10 that earn their space."
 image: /images/best-bathroom-storage-hero.jpg
+pin_image: /images/bathroom-fit-pin-1.jpg
 category: Home
 guide: true
 ---

@@ -3,6 +3,7 @@ layout: post
 title: "13 Laundry Room Buys Under $30 That Changed Everything"
 description: "Small laundry room? These 13 cheap, practical ideas add storage, hide the mess, and make wash day faster — most of them cost under $30."
 image: /images/laundry-hero.jpg
+pin_image: /images/laundry-pin-1.jpg
 category: Home
 ---
 

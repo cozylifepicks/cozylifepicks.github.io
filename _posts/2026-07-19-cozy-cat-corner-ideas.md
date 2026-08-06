@@ -3,6 +3,7 @@ layout: post
 title: "12 Cozy Cat Corner Ideas Your Cat Will Actually Use"
 description: "Cosy cat corner ideas your cat will actually use — 12 cozy setups with beds, cat trees, window perches and clever storage that still looks good in your living room."
 image: /images/cat-corner-hero.jpg
+pin_image: /images/catcorner-pin-2.jpg
 category: Pets
 ---
 

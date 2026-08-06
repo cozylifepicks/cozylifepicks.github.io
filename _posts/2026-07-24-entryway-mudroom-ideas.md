@@ -3,6 +3,7 @@ layout: post
 title: "14 Entryway Ideas That End the Shoe Pile Forever"
 description: "Simple entryway and mudroom organization ideas — shoe racks, hooks, and drop zones that keep the front door clutter-free every day."
 image: /images/entryway-hero.jpg
+pin_image: /images/entryway-pin-4.jpg
 category: Home
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "14 Cozy Garden Ideas to Turn Any Backyard Into a Retreat"
 description: "Make your garden a place you actually want to sit in — 14 cozy garden ideas with soft lighting, comfy seating, planters and little touches that work in any size yard."
 image: /images/garden-hero.jpg
+pin_image: /images/garden-pin-2.jpg
 category: Garden
 ---
 
