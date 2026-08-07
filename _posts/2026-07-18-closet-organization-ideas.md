@@ -72,8 +72,9 @@ calm.
 
 Winter coats don't need prime real estate in July.
 [Vacuum storage bags](https://www.amazon.com/s?k=vacuum+storage+bags+clothes&tag=tamirugc20-20)
-shrink bulky items to a third of their size — slide them under the bed and
-your closet suddenly doubles.
+shrink bulky items to a third of their size — slide them under the bed in
+[storage boxes that actually fit the gap](/best-under-bed-storage-small-rooms/)
+and your closet suddenly doubles.
 
 → [See current options on Amazon](https://www.amazon.com/s?k=vacuum+storage+bags+clothes&tag=tamirugc20-20)
 
