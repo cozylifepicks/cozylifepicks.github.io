@@ -117,6 +117,35 @@ One [soft pet blanket](https://www.amazon.com/s?k=soft+pet+blanket&tag=tamirugc2
 that smells like *them* makes the corner theirs. Bonus: it's the blanket you
 wash, instead of your throw pillows.
 
+## Common questions
+
+### What are the best cat corner ideas for a small home?
+
+Start with one soft, enclosed sleeping spot and build outward. A
+[cave-style cat bed](https://www.amazon.com/s?k=cat+cave+bed&tag=tamirugc20-20)
+in a quiet corner, a window view, and somewhere to scratch cover almost
+everything a cat wants. You need about a square metre, not a spare room.
+
+### Where should I put a cozy cat corner?
+
+Somewhere your cat already chooses: a sunny windowsill, the end of a sofa, or a
+quiet corner with a view of the door. Cats pick spots where they can see the
+room but aren't in the traffic. Watch where yours naps for a week and put the
+corner there rather than where it suits the furniture.
+
+### How do I make a cat corner without it looking ugly?
+
+Buy in your own colours and materials — wood, rattan, wool, cream and sage — and
+the corner reads as furniture rather than pet gear. A
+[wooden cat shelf](https://www.amazon.com/s?k=wall+mounted+cat+shelf+wood&tag=tamirugc20-20)
+looks like a shelf, and a covered litter box in a cabinet disappears entirely.
+
+### Do cats actually use cat trees and window perches?
+
+Most do, if the placement is right. A perch needs a real view and morning sun; a
+tree needs to be near where the family sits, not hidden in a spare room. A cat
+that ignores a tree usually dislikes the location, not the tree.
+
 ---
 
 {% include pick.html label="Start Here" name="Cave-Style Cat Bed" why="If you only buy one thing, make it this — a bed your cat actually sleeps in is what turns a corner into their corner. Everything else builds on that." link="https://www.amazon.com/s?k=cat+cave+bed&tag=tamirugc20-20" %}

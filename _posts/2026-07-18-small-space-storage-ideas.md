@@ -126,6 +126,37 @@ Surfaces stay clear because everything has an address.
 The best storage idea is owning slightly less. Once a month, fill one bag for
 donation. Small spaces forgive many things — but not accumulation.
 
+## Common questions
+
+### What are the best small storage room ideas?
+
+Go up the walls and use the dead space first. Shelves to the ceiling, hooks
+where things already get dropped, and
+[clear stacking bins](https://www.amazon.com/s?k=clear+stackable+storage+bins&tag=tamirugc20-20)
+so the back of a deep shelf stays findable. Floor space is the last thing you
+should spend.
+
+### How do you store things in a very small room?
+
+Claim the three places nobody uses: under the bed, the back of every door, and
+the wall above door height. Between them they hold most of what a small room is
+struggling with — see our
+[best under-bed storage picks](/best-under-bed-storage-small-rooms/) for what
+actually fits under there.
+
+### How do I organise a small storage room cheaply?
+
+Hooks, tension rods and clear bins are the cheapest things that genuinely
+change a room, and they cost a few dollars each. Buy the containers last —
+measure the space and decide what lives where first, or you'll own boxes that
+fit nothing.
+
+### What should you not store in a small space?
+
+Anything you're keeping "just in case" that has a cheap replacement, and
+anything bulky you use less than once a year. In a small room, storing one
+spare duvet badly costs you more usable space than ten small items stored well.
+
 ---
 
 {% include pick.html label="Start Here" name="Under-bed storage containers" why="Every home already owns this space — it just sits empty. Wheeled boxes under the bed clear more visible clutter in one afternoon than anything else on this list." link="https://www.amazon.com/s?k=under+bed+storage+containers+with+wheels&tag=tamirugc20-20" %}

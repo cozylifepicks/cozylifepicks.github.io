@@ -133,6 +133,34 @@ Cozy you can feel: a
 makes any bed feel like a cloud. It's the one upgrade you'll notice every single
 night.
 
+## Common questions
+
+### What makes a bedroom feel warm and cosy?
+
+Three things, in this order: layered soft textiles, low warm light, and less
+visible clutter. A [linen duvet](https://www.amazon.com/s?k=linen+duvet+cover+set&tag=tamirugc20-20),
+a chunky throw and a warm-toned bedside lamp do more for the feeling of a room
+than any amount of redecorating.
+
+### How do I make a small bedroom cosy without it feeling cramped?
+
+Keep the floor clear and go soft rather than busy. Store what you can under the
+bed, use one big rug instead of several small ones, and stick to two or three
+warm colours. A mirror opposite the window gives back the light the clutter was
+eating.
+
+### What colour makes a bedroom feel warmest?
+
+Warm neutrals — cream, oatmeal, soft terracotta and muted sage — read as cosy
+because they reflect warm light rather than cool it. You don't have to repaint:
+bedding, curtains and a throw carry the colour and cost a fraction of the paint.
+
+### What lighting is best for a cosy bedroom?
+
+Two or three small warm lamps at different heights, never one bright ceiling
+light. Look for bulbs around 2700K, and put one within arm's reach of the bed so
+the overhead light stays off from the moment you get in.
+
 ---
 
 {% include pick.html label="Start Here" name="Linen Duvet Cover Set" why="If you only buy one thing, make it this — the bed is the biggest thing in the room, and soft breathable linen changes how the whole space feels the first night you sleep under it." link="https://www.amazon.com/s?k=linen+duvet+cover+set&tag=tamirugc20-20" %}
