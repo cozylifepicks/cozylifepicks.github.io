@@ -195,4 +195,7 @@ wall-first thinking to the rest of a tiny home, the
 [laundry room ideas](/laundry-room-ideas/) sort out the other room where
 everything is damp and nothing has a shelf, and the
 [closet organization ideas](/closet-organization-ideas/) finish the job on the
-cupboard you've been avoiding.
+cupboard you've been avoiding. In the bedroom, the same measure-first rule
+applies to the space under the bed — our
+[best under-bed storage for small rooms](/best-under-bed-storage-small-rooms/)
+starts with the one number that decides everything.

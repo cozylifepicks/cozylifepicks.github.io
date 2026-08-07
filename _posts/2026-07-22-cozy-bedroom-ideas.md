@@ -149,4 +149,7 @@ And if the dog sleeps in your room, the right low-profile bed keeps that corner
 calm too: see [the best dog beds for small spaces](/best-dog-beds-small-spaces/).
 A calm bedroom rarely survives a chaotic wardrobe, so if the clothes are the
 problem, start with our
-[12 closet organization ideas](/closet-organization-ideas/).
+[12 closet organization ideas](/closet-organization-ideas/). And if the room is
+small, the space under the bed is the storage you already own — our
+[best under-bed storage for small rooms](/best-under-bed-storage-small-rooms/)
+covers what actually fits under there.

@@ -148,4 +148,7 @@ pantry and the bathroom — our
 [15 pantry organization ideas](/pantry-organization-ideas/) and
 [12 bathroom organization ideas](/bathroom-organization-ideas/) go deeper on both,
 and our [best bathroom storage buys for small spaces](/best-bathroom-storage-small-spaces/)
-picks the exact shelves and racks worth the money in a tiny bathroom.
+picks the exact shelves and racks worth the money in a tiny bathroom. And since
+the biggest empty cupboard in a small home is the one under your bed, our
+[best under-bed storage for small rooms](/best-under-bed-storage-small-rooms/)
+covers which boxes, bags and rolling drawers are actually worth buying.
