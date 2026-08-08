@@ -144,4 +144,7 @@ version that works in two square metres.
 Making the inside of your home just as inviting? These
 [cozy reading nook ideas](/cozy-reading-nook-ideas/) create the same kind of
 retreat indoors, and our [cozy living room decor ideas](/cozy-living-room-decor-ideas/)
-carry the warmth through the rest of the house.
+carry the warmth through the rest of the house. And the cushions and throws that
+make the garden cozy have to live somewhere from October on — our picks for
+[the best under-bed storage for small rooms](/best-under-bed-storage-small-rooms/)
+keep them dry and out of the way until spring.

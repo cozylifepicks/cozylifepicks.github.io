@@ -162,4 +162,7 @@ works outdoors — that's the whole idea behind our
 [14 small patio and balcony ideas](/small-patio-balcony-ideas/). If the nook is
 going in the bedroom, our
 [14 warm and cozy bedroom ideas](/cozy-bedroom-ideas/) get the lighting and
-layers right in the rest of the room too.
+layers right in the rest of the room too. A good nook quietly generates a pile of
+blankets and finished books, and our tested picks for
+[the best under-bed storage for small rooms](/best-under-bed-storage-small-rooms/)
+are where we put ours.

@@ -204,4 +204,7 @@ level, the
 [12 cozy reading nook ideas](/cozy-reading-nook-ideas/) use the identical
 light-and-blanket formula indoors, and the
 [14 small-space storage ideas](/small-space-storage-ideas/) help with the stuff
-that ends up on the balcony because it has nowhere else to go.
+that ends up on the balcony because it has nowhere else to go. When the cushions
+and the folding chair need a home for the winter, our tested picks for
+[the best under-bed storage for small rooms](/best-under-bed-storage-small-rooms/)
+are the cheapest square metre in the house.

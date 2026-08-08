@@ -144,3 +144,7 @@ If the rest of your home is fighting you for space too, our
 [14 entryway ideas](/entryway-mudroom-ideas/) tackle the same problem in the
 other rooms. And when the working day is done, the same corner trick builds a
 [cozy reading nook](/cozy-reading-nook-ideas/) — same chair, very different mood.
+The files, cables and the printer you use twice a year do not belong in the nook
+at all: our picks for
+[the best under-bed storage for small rooms](/best-under-bed-storage-small-rooms/)
+give them somewhere to live.

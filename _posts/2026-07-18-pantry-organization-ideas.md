@@ -140,4 +140,6 @@ The clear-bin-and-label habit travels further than you would think. It is exactl
 what calms the under-sink cabinet in our
 [14 bathroom organization ideas](/bathroom-organization-ideas/), and it is how the
 detergent shelf stays tidy in our
-[13 laundry room ideas under $30](/laundry-room-ideas/).
+[13 laundry room ideas under $30](/laundry-room-ideas/). If that under-sink
+cabinet is the real problem, we tested the fixes properly in
+[the best bathroom storage for small spaces](/best-bathroom-storage-small-spaces/).
