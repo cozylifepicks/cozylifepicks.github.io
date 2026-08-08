@@ -3,6 +3,7 @@ layout: post
 title: "15 Pantry Organization Ideas That Actually Work"
 description: "Transform a messy pantry into a calm, functional space with these 15 realistic pantry organization ideas — clear bins, labels, lazy Susans, and more."
 image: /images/pantry-hero.jpg
+pin_image: /images/pantry-org-pin-1.jpg
 category: Kitchen & Pantry
 ---
 
