@@ -175,6 +175,9 @@ Got a spare corner in there? A chair, a lamp and a blanket turn it into a
 [cozy reading nook](/cozy-reading-nook-ideas/) — the quietest spot in the house.
 And if the dog sleeps in your room, the right low-profile bed keeps that corner
 calm too: see [the best dog beds for small spaces](/best-dog-beds-small-spaces/).
+If it's the cat who wakes you at 5am, our
+[cozy cat corner ideas](/cozy-cat-corner-ideas/) give them a bed that isn't
+yours.
 A calm bedroom rarely survives a chaotic wardrobe, so if the clothes are the
 problem, start with our
 [12 closet organization ideas](/closet-organization-ideas/). And if the room is

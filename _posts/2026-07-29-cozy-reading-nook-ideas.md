@@ -157,7 +157,9 @@ awkward corners, and the
 [home office nook ideas](/home-office-nook-ideas/) use the identical trick in a
 corner that has to earn its keep. The same lamp-and-blanket formula one metre
 lower is exactly how our [12 cozy dog corner ideas](/cozy-dog-corner-ideas/)
-work. In summer, the same light-and-blanket formula
+work. And if a cat has already claimed the chair, our
+[cat corner ideas](/cozy-cat-corner-ideas/) give them a warm spot of their own
+so you can have yours back. In summer, the same light-and-blanket formula
 works outdoors — that's the whole idea behind our
 [14 small patio and balcony ideas](/small-patio-balcony-ideas/). If the nook is
 going in the bedroom, our
