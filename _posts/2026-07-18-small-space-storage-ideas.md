@@ -183,3 +183,7 @@ picks the exact shelves and racks worth the money in a tiny bathroom. And since
 the biggest empty cupboard in a small home is the one under your bed, our
 [best under-bed storage for small rooms](/best-under-bed-storage-small-rooms/)
 covers which boxes, bags and rolling drawers are actually worth buying.
+
+The kitchen version of the same problem — a shallow pantry whose back half you
+cannot reach — is covered in our
+[best pantry organizers for small kitchens](/best-pantry-organizers-small-kitchens/).

@@ -143,3 +143,7 @@ detergent shelf stays tidy in our
 [13 laundry room ideas under $30](/laundry-room-ideas/). If that under-sink
 cabinet is the real problem, we tested the fixes properly in
 [the best bathroom storage for small spaces](/best-bathroom-storage-small-spaces/).
+
+When you are ready to actually buy rather than rearrange, our
+[best pantry organizers for small kitchens](/best-pantry-organizers-small-kitchens/)
+names the ten bins, risers and containers worth the money in a tiny pantry.

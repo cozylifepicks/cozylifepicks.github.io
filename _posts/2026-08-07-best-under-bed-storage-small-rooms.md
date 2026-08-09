@@ -203,3 +203,6 @@ those shoes just came out of, the
 into somewhere you actually want to be, and the
 [best bathroom storage buys](/best-bathroom-storage-small-spaces/) apply the same
 measure-first thinking to the other room where nothing fits.
+
+The kitchen gets the same measure-first treatment in our
+[best pantry organizers for small kitchens](/best-pantry-organizers-small-kitchens/).

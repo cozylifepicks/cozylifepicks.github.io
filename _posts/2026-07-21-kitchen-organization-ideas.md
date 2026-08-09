@@ -154,3 +154,7 @@ clear-bin-and-label habit under the sink, and our
 cupboard simply will not fit. If the bathroom is the one you dread, our
 [best bathroom storage buys for small spaces](/best-bathroom-storage-small-spaces/)
 names the ten pieces worth paying for.
+
+And if the pantry cupboard is the part that defeats you, our
+[best pantry organizers for small kitchens](/best-pantry-organizers-small-kitchens/)
+picks the exact bins, risers and turntables that work on a shallow shelf.
