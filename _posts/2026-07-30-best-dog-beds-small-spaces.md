@@ -191,3 +191,10 @@ corner look like it was always meant to be there. Once you've chosen the bed,
 our [12 cozy dog corner ideas](/cozy-dog-corner-ideas/) cover everything that
 goes around it — the basket, the blanket and the spot that finally beats
 the sofa.
+
+A dog bed takes floor space you may not have spare, so it is worth buying it back
+somewhere else. Our
+[best under-bed storage for small rooms](/best-under-bed-storage-small-rooms/)
+starts with the one measurement that decides everything, and the
+[best bathroom storage buys](/best-bathroom-storage-small-spaces/) apply the same
+measure-first rule to the room where nothing ever fits.

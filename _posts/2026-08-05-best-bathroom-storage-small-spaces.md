@@ -198,4 +198,7 @@ everything is damp and nothing has a shelf, and the
 cupboard you've been avoiding. In the bedroom, the same measure-first rule
 applies to the space under the bed — our
 [best under-bed storage for small rooms](/best-under-bed-storage-small-rooms/)
-starts with the one number that decides everything.
+starts with the one number that decides everything. The kitchen gets the same
+treatment in our
+[best pantry organizers for small kitchens](/best-pantry-organizers-small-kitchens/) —
+measure the shelf before you buy anything to put on it.

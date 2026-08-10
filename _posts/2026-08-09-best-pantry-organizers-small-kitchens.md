@@ -207,4 +207,6 @@ and drawers, the
 [14 small-space storage ideas](/small-space-storage-ideas/) find the room a small
 home is hiding elsewhere, and the
 [best under-bed storage picks](/best-under-bed-storage-small-rooms/) apply the same
-measure-first thinking to the bedroom.
+measure-first thinking to the bedroom. The
+[best bathroom storage buys](/best-bathroom-storage-small-spaces/) finish the tour
+in the last room where every shelf is the wrong size.
