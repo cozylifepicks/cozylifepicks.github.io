@@ -197,4 +197,6 @@ somewhere else. Our
 [best under-bed storage for small rooms](/best-under-bed-storage-small-rooms/)
 starts with the one measurement that decides everything, and the
 [best bathroom storage buys](/best-bathroom-storage-small-spaces/) apply the same
-measure-first rule to the room where nothing ever fits.
+measure-first rule to the room where nothing ever fits. And if a cat shares the
+flat, the [best cat trees and window perches for small spaces](/best-cat-trees-small-spaces/)
+solve the same footprint problem by building upward instead of outward.

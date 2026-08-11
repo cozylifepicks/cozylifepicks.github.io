@@ -130,6 +130,8 @@ looking like part of the room instead of an afterthought — and our
 [12 cozy dog corner ideas](/cozy-dog-corner-ideas/) turn that corner into
 something you're happy to have in the middle of the room. Cats claim the good
 corners too — our [12 cozy cat corner ideas](/cozy-cat-corner-ideas/) give them
-one that suits the room. And when you're ready to carry the same warm, layered
+one that suits the room, and the
+[best cat trees and window perches for small spaces](/best-cat-trees-small-spaces/)
+pick the furniture that fits it. And when you're ready to carry the same warm, layered
 feeling into the rest of the house, start with our
 [14 warm and cozy bedroom ideas](/cozy-bedroom-ideas/).

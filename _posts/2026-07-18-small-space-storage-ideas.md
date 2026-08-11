@@ -187,3 +187,6 @@ covers which boxes, bags and rolling drawers are actually worth buying.
 The kitchen version of the same problem — a shallow pantry whose back half you
 cannot reach — is covered in our
 [best pantry organizers for small kitchens](/best-pantry-organizers-small-kitchens/).
+And if a cat is quietly using the floor you are trying to win back, the
+[best cat trees and window perches for small spaces](/best-cat-trees-small-spaces/)
+move it up the wall instead.

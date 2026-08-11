@@ -196,4 +196,6 @@ choose the actual bed, the
 [12 cozy cat corner ideas](/cozy-cat-corner-ideas/) do the same job for the other
 half of the household, and the
 [cozy living room ideas](/cozy-living-room-decor-ideas/) show how to make a pet
-corner look like it belongs there.
+corner look like it belongs there. If the cat needs buying for too, the
+[best cat trees and window perches for small spaces](/best-cat-trees-small-spaces/)
+cover the furniture side of it.

@@ -16,6 +16,11 @@ them. The best cat corner ideas — whether you spell it cosy or cozy — create
 cat corner that your cat genuinely uses, and that still looks like part of your
 home instead of a pet store. Here are 12 to steal.
 
+Already know what you want and just need to pick one? Our
+[best cat trees and window perches for small spaces](/best-cat-trees-small-spaces/)
+compares the actual furniture — trees, perches, shelves and posts — and says which
+to buy first when floor space is tight.
+
 **Short on time? Start with these 3:**
 
 <div class="table-wrap" markdown="1">
@@ -165,4 +170,6 @@ the house too, the same corner logic applies to them: see
 [12 cozy dog corner ideas](/cozy-dog-corner-ideas/). If your cat
 would rather be outside, our
 [14 cozy garden ideas](/cozy-garden-ideas/) build the same kind of sheltered,
-sunny spot in the backyard.
+sunny spot in the backyard. And when you are ready to buy rather than rearrange,
+our [best cat trees and window perches for small spaces](/best-cat-trees-small-spaces/)
+picks the exact tree, perch and post worth the money in a small home.
