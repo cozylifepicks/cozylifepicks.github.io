@@ -136,6 +136,39 @@ whole entryway feeling as good as day one.
 
 ---
 
+## Common questions
+
+### How do I organize a small entryway with no closet?
+
+Build the closet on the wall. A
+[wall-mounted hook rack](https://www.amazon.com/s?k=wall+mounted+coat+hook+rack&tag=tamirugc20-20)
+at adult height, a second row of hooks low down for children, and a
+[shoe storage bench](https://www.amazon.com/s?k=entryway+shoe+storage+bench&tag=tamirugc20-20)
+underneath gives you everything a coat closet does in about 40 cm of depth —
+and unlike a closet, nothing can be shut away and forgotten.
+
+### How do I stop the shoe pile by the front door?
+
+Cap it. Give the doorway one container that holds the shoes people actually wear
+this week — a bench with a shelf, or a low
+[shoe rack](https://www.amazon.com/s?k=narrow+entryway+shoe+rack&tag=tamirugc20-20)
+— and keep the rest somewhere else. A pile happens when the landing spot has no
+edges, not because anyone is lazy.
+
+### What should a small mudroom have?
+
+Four things, in this order: hooks, a seat, a shoe container and a tray for keys.
+Anything past that is decoration. If you only have room for two, make them the
+hooks and the shoe container, because coats and shoes are what create the mess.
+
+### Where do you put coats without a coat closet?
+
+On hooks, not hangers — hangers need depth and a rail, hooks need a wall. Keep
+only the current season by the door and move the rest to a wardrobe or an
+[under-bed storage bag](https://www.amazon.com/s?k=under+bed+storage+bags+for+clothes&tag=tamirugc20-20);
+an entryway that holds every coat you own will look chaotic no matter how good
+the hooks are.
+
 {% include pick.html label="Start Here" name="Shoe Storage Bench" why="It fixes the biggest problem — the shoe pile — the day it arrives, and gives you a seat by the door as a bonus. Every other idea on this list builds on top of it." link="https://www.amazon.com/s?k=entryway+shoe+storage+bench&tag=tamirugc20-20" %}
 
 You don't need a full mudroom renovation to fix a chaotic entryway. Start with

@@ -130,6 +130,40 @@ bathroom feeling like it did on day one.
 
 ---
 
+## Common questions
+
+### How do I organize a small bathroom with no storage?
+
+Go up the walls and behind the door — those are the only two surfaces a small
+bathroom has spare. A narrow
+[over-the-toilet shelf](https://www.amazon.com/s?k=over+the+toilet+storage+shelf&tag=tamirugc20-20)
+and an
+[over-the-door rack](https://www.amazon.com/s?k=over+the+door+bathroom+organizer&tag=tamirugc20-20)
+add a cupboard's worth of space without touching the floor, and floor space is
+what makes a tiny bathroom feel cramped in the first place.
+
+### What is the best way to organize under the bathroom sink?
+
+Bins, one per category. The space is awkward because of the pipes, so anything
+stacked loose collapses within a week — but two or three
+[clear acrylic bins](https://www.amazon.com/s?k=clear+acrylic+bathroom+organizer+bins&tag=tamirugc20-20)
+pull out like drawers, and being able to see what you own is what stops you
+buying a fourth bottle of the same thing.
+
+### How do I stop a bathroom counter from getting cluttered?
+
+Give the counter a hard edge. Everything that lives out goes on one
+[vanity tray](https://www.amazon.com/s?k=bathroom+vanity+tray&tag=tamirugc20-20),
+and everything else goes in a drawer. A tray works where a rule doesn't, because
+putting something back takes one second and still looks deliberate.
+
+### How can I make my bathroom look like a spa?
+
+Match the containers and cut the colours. Rolled white towels, matching
+[refillable bottles](https://www.amazon.com/s?k=refillable+bathroom+soap+dispenser+set&tag=tamirugc20-20)
+instead of a row of branded plastic, one plant and warm light — the boutique-spa
+feeling is mostly repetition, not money.
+
 {% include pick.html label="Start Here" name="Clear Acrylic Organizer Bins" why="If you only buy one thing, make it these. They fix the messiest spot in most bathrooms — the under-sink cabinet — and seeing what you own stops the double-buying for good." link="https://www.amazon.com/s?k=clear+acrylic+bathroom+organizer+bins&tag=tamirugc20-20" %}
 
 You don't need a renovation to love your bathroom. Start with the
