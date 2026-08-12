@@ -129,6 +129,34 @@ lazy weekend afternoon.
 
 ---
 
+## Common questions
+
+### How do I make a small backyard feel cozy?
+
+Break the space into one clearly defined seating area rather than spreading
+furniture around the edge. A rug, a couple of chairs facing each other and
+[warm string lights](https://www.amazon.com/s?k=outdoor+string+lights+garden&tag=tamirugc20-20)
+overhead do more for the feeling of a garden than any amount of planting.
+
+### What is the cheapest way to make a garden look nicer?
+
+Lighting, then containers. Solar or plug-in string lights transform an ordinary
+yard after dark for very little, and a few large pots read as intentional
+design where many small ones read as clutter. Both work in a rental.
+
+### How can I make my garden private without a fence?
+
+Use height in layers: a tall planter with grasses, a trellis with a climber, or
+a simple outdoor screen behind the seating. You only need to block sightlines
+from where you actually sit, which is usually a far smaller area than people
+assume.
+
+### What can I do with a garden that gets no sun?
+
+Lean into it rather than fighting it. Shade-tolerant planting, lighter paving to
+bounce what light there is, and generous evening lighting turn a shady corner
+into the best part of the garden on a hot day.
+
 {% include pick.html label="Start Here" name="Solar String Lights" why="If you only buy one thing from this list, make it this. One string of warm lights changes how your whole garden feels after sunset, and since they charge themselves there is nothing to wire or remember." link="https://www.amazon.com/s?k=solar+string+lights+outdoor&tag=tamirugc20-20" %}
 
 The secret to a cozy garden isn't square footage — it's

@@ -115,6 +115,33 @@ everything else look intentional.
 
 ---
 
+## Common questions
+
+### How do I hide clutter in a living room?
+
+Give it a container with a lid. Lidded baskets, a
+[storage coffee table](https://www.amazon.com/s?k=lift+top+storage+coffee+table&tag=tamirugc20-20)
+and closed shelving mean the room looks calm without anything actually being put
+away — which is the only version of tidy that survives a real week.
+
+### How can I make my living room feel cozy on a budget?
+
+Change the light before you change the furniture. Two or three warm lamps at
+different heights instead of one ceiling light is the cheapest transformation
+there is, and a large textured throw and cushions do the rest.
+
+### Where should the TV go in a small living room?
+
+Opposite the longest seat, and lower than most people mount it — roughly eye
+level when seated. Wall-mounting frees the floor, and a slim media unit with
+doors keeps the cable clutter out of sight, which matters more in a small room.
+
+### What makes a room look cluttered even when it is clean?
+
+Too many small objects on open surfaces, and too many competing colours. Grouping
+small things onto a single tray, and keeping the storage the same colour as the
+wall, both make a room read as calm without removing anything.
+
 {% include pick.html label="Start Here" name="Storage Ottoman" why="If you only buy one thing from this list, make it this. It hides the blankets, remotes, and toys while working as your coffee table and footrest — no other single piece changes the room as much." link="https://www.amazon.com/s?k=storage+ottoman+coffee+table&tag=tamirugc20-20" %}
 
 **The takeaway:** cozy and tidy aren't opposites — they're teammates. Start

@@ -129,6 +129,35 @@ strays, wipe shelves, note what's running low — keeps the whole pantry working
 
 ---
 
+## Common questions
+
+### How do I organize a small pantry?
+
+Start by grouping like with like, then contain each group in a bin so the
+category has a physical edge. Deep shelves are the usual problem — a
+[set of clear pantry bins](https://www.amazon.com/s?k=clear+pantry+storage+bins&tag=tamirugc20-20)
+turns an unreachable back half into a drawer you can pull out.
+
+### What should be stored at eye level in a pantry?
+
+Whatever you reach for daily — breakfast things, snacks, the coffee and tea.
+Put backstock and bulk bags on the highest shelf and heavy items low. The rule
+is boring and it is the single biggest reason a pantry stays tidy after the
+first week.
+
+### Are pantry containers actually worth it?
+
+For dry goods you buy often — flour, rice, pasta, cereal — yes, because they
+stack squarely and show the level at a glance. For everything else, the packet
+is usually fine. Decanting your entire pantry is where people overspend and then
+abandon the system.
+
+### How do I keep a pantry organized long-term?
+
+Give every category a fixed home and label it, so putting shopping away requires
+no decisions. Then do a five-minute check before each grocery trip — it doubles
+as your shopping list and stops the duplicate jars that quietly fill a pantry.
+
 {% include pick.html label="Start Here" name="Clear Pantry Storage Bins" why="If you only buy one thing from this list, make it these. Being able to see everything at a glance is what makes every other idea here actually stick." link="https://www.amazon.com/s?k=clear+pantry+storage+bins&tag=tamirugc20-20" %}
 
 **The takeaway:** start with [clear bins](https://www.amazon.com/s?k=clear+pantry+storage+bins&tag=tamirugc20-20) and [labels](https://www.amazon.com/s?k=label+maker+for+home+organization&tag=tamirugc20-20) (ideas 1–3), then add one

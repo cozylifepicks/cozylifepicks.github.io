@@ -118,6 +118,37 @@ rehang, refold, done — keeps the whole system alive.
 
 ---
 
+## Common questions
+
+### How do I organize a small closet with too many clothes?
+
+Reduce the number of hanger types first, then divide the shelves. Matching
+[slim velvet hangers](https://www.amazon.com/s?k=velvet+hangers+50+pack&tag=tamirugc20-20)
+alone free up several inches of rail, and shelf dividers stop folded stacks
+toppling into each other. Only after that does it make sense to decide what to
+remove — most closets are 30% fuller-looking than they are full.
+
+### What is the best way to organize clothes in a closet?
+
+Group by category first (shirts, trousers, dresses), then by colour inside each
+group. Category grouping is what makes things findable; colour is what makes it
+look calm. Keep the things you wear weekly at eye level and put seasonal items
+on the top shelf in labelled bins.
+
+### How can I add closet space without renovating?
+
+Add a second hanging rail under the short garments, use the back of the door for
+shoes or accessories, and put stackable bins on the top shelf. These three moves
+roughly double usable space in a standard reach-in closet and all of them are
+renter-friendly.
+
+### How often should I declutter my closet?
+
+Twice a year, at the season change, is enough for most people. A useful trick in
+between: turn every hanger backwards, and turn it the right way when you wear
+the item. Whatever is still backwards after six months is the honest answer to
+what you do not wear.
+
 {% include pick.html label="Start Here" name="Velvet Non-Slip Hangers (50-Pack)" why="If you only buy one thing from this list, make it this. Swapping mixed plastic hangers for a matching set changes how the whole closet looks in a single evening — everything else builds on it." link="https://www.amazon.com/s?k=velvet+hangers+50+pack&tag=tamirugc20-20" %}
 
 **The takeaway:** start with
