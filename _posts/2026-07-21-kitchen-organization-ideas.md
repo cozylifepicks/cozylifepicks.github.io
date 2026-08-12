@@ -158,3 +158,38 @@ names the ten pieces worth paying for.
 And if the pantry cupboard is the part that defeats you, our
 [best pantry organizers for small kitchens](/best-pantry-organizers-small-kitchens/)
 picks the exact bins, risers and turntables that work on a shallow shelf.
+
+## Common questions
+
+### How do I organize my kitchen drawers?
+
+Give every drawer one job, then divide it. An expandable
+[bamboo drawer organizer](https://www.amazon.com/s?k=bamboo+drawer+organizer+utensil&tag=tamirugc20-20)
+turns a jumbled utensil drawer into fixed lanes, and the drawer nearest the stove
+should hold only what you cook with daily. Everything that failed to earn its lane
+goes in a second drawer or a jar on the counter — the point is that nothing shares
+a slot with something unrelated.
+
+### How do I organize a small kitchen with no counter space?
+
+Move upward and inward: hang the tools you reach for most, put a
+[two-tier shelf riser](https://www.amazon.com/s?k=cabinet+shelf+riser+organizer&tag=tamirugc20-20)
+in deep cabinets so the back half is visible, and use the inside of cabinet doors
+for wraps, lids and cleaning sprays. A clear counter is the single change that
+makes a small kitchen feel bigger, so anything that lives there permanently has to
+earn it.
+
+### What should I declutter in the kitchen first?
+
+The utensil drawer and the plastic container cupboard, in that order. They hold the
+highest ratio of duplicates to useful items, so they give you the fastest visible
+win — and both take about ten minutes. Match every lid to a container and recycle
+the orphans; that alone usually empties half a shelf.
+
+### How do I keep a kitchen organized long term?
+
+Label anything that goes in an opaque bin, and decant staples into
+[clear airtight canisters](https://www.amazon.com/s?k=airtight+food+storage+canisters&tag=tamirugc20-20)
+so you can see when something is running low. Systems fail when putting an item
+back is harder than leaving it out, so keep the storage one step simpler than you
+think it needs to be.
