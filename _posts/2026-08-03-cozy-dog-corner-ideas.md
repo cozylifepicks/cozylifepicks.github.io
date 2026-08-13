@@ -199,3 +199,8 @@ half of the household, and the
 corner look like it belongs there. If the cat needs buying for too, the
 [best cat trees and window perches for small spaces](/best-cat-trees-small-spaces/)
 cover the furniture side of it.
+
+Short on floor space entirely? The low end of an under-stairs cupboard makes a
+surprisingly good dog nook — one of the
+[13 under-stairs storage ideas](/under-stairs-storage-ideas/) we use for the most
+wasted space in the house.

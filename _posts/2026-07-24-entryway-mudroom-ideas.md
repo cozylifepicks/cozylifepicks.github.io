@@ -188,3 +188,7 @@ muddy paws a proper home instead of the hallway floor. And when the boots and
 spare bags still have nowhere to go, our tested picks for
 [the best under-bed storage for small rooms](/best-under-bed-storage-small-rooms/)
 free up the closet the entryway keeps borrowing.
+
+And if the shoes and coats are spilling out of the cupboard under the stairs,
+our [13 under-stairs storage ideas](/under-stairs-storage-ideas/) turn that
+awkward triangle into the coat-and-shoe cupboard the hallway needs.

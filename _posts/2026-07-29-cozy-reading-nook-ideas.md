@@ -168,3 +168,7 @@ layers right in the rest of the room too. A good nook quietly generates a pile o
 blankets and finished books, and our tested picks for
 [the best under-bed storage for small rooms](/best-under-bed-storage-small-rooms/)
 are where we put ours.
+
+If the only spare corner you have is the open space beside the staircase, our
+[13 under-stairs storage ideas](/under-stairs-storage-ideas/) show how to turn it
+into either a nook or a proper cupboard — whichever you need more.

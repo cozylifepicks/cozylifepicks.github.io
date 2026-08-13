@@ -206,3 +206,7 @@ measure-first thinking to the other room where nothing fits.
 
 The kitchen gets the same measure-first treatment in our
 [best pantry organizers for small kitchens](/best-pantry-organizers-small-kitchens/).
+
+Under the bed is one piece of dead space; the cupboard under the stairs is the
+other. Our [13 under-stairs storage ideas](/under-stairs-storage-ideas/) use the
+same measure-first approach on an awkward sloping triangle.

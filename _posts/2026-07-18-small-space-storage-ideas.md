@@ -190,3 +190,8 @@ cannot reach — is covered in our
 And if a cat is quietly using the floor you are trying to win back, the
 [best cat trees and window perches for small spaces](/best-cat-trees-small-spaces/)
 move it up the wall instead.
+
+The other cupboard every home already owns and nobody uses properly is the one
+under the staircase — our
+[13 under-stairs storage ideas](/under-stairs-storage-ideas/) make that triangle
+hold more than a small closet.
