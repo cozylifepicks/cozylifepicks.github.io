@@ -159,3 +159,7 @@ are the kitchen and the front door — see our
 bathroom next door is the room with nowhere to put anything, our
 [best bathroom storage buys for small spaces](/best-bathroom-storage-small-spaces/)
 covers what's actually worth buying.
+
+And for the shelf above the machine, our
+[best storage baskets and bins for small homes](/best-storage-baskets-small-homes/)
+compare the mesh and woven options side by side.

@@ -192,3 +192,7 @@ free up the closet the entryway keeps borrowing.
 And if the shoes and coats are spilling out of the cupboard under the stairs,
 our [13 under-stairs storage ideas](/under-stairs-storage-ideas/) turn that
 awkward triangle into the coat-and-shoe cupboard the hallway needs.
+
+And whatever ends up on the hallway shelf looks far better contained — the
+[best storage baskets and bins for small homes](/best-storage-baskets-small-homes/)
+cover which sizes actually fit.

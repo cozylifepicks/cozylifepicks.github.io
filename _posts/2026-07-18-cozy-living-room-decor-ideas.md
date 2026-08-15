@@ -162,3 +162,7 @@ one that suits the room, and the
 pick the furniture that fits it. And when you're ready to carry the same warm, layered
 feeling into the rest of the house, start with our
 [14 warm and cozy bedroom ideas](/cozy-bedroom-ideas/).
+
+For the throws, cables and stray cushions that have no home at all, the
+[best storage baskets and bins for small homes](/best-storage-baskets-small-homes/)
+name the one basket that absorbs the lot.

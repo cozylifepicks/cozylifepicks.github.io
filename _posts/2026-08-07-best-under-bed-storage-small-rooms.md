@@ -210,3 +210,7 @@ The kitchen gets the same measure-first treatment in our
 Under the bed is one piece of dead space; the cupboard under the stairs is the
 other. Our [13 under-stairs storage ideas](/under-stairs-storage-ideas/) use the
 same measure-first approach on an awkward sloping triangle.
+
+For the storage that lives out in the open rather than under the bed, our
+[best storage baskets and bins for small homes](/best-storage-baskets-small-homes/)
+apply the same measure-first rule to shelves.

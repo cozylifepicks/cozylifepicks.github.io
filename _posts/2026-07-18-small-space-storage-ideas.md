@@ -195,3 +195,8 @@ The other cupboard every home already owns and nobody uses properly is the one
 under the staircase — our
 [13 under-stairs storage ideas](/under-stairs-storage-ideas/) make that triangle
 hold more than a small closet.
+
+Once the shelves are up, what goes on them decides whether the room reads as
+tidy or as clutter — our
+[best storage baskets and bins for small homes](/best-storage-baskets-small-homes/)
+compares the ones worth buying.
