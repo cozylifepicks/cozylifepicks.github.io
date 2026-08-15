@@ -175,4 +175,8 @@ cabinet is the real problem, we tested the fixes properly in
 
 When you are ready to actually buy rather than rearrange, our
 [best pantry organizers for small kitchens](/best-pantry-organizers-small-kitchens/)
-names the ten bins, risers and containers worth the money in a tiny pantry.
+names the ten bins, risers and containers worth the money in a tiny pantry. For
+the open shelves and the pantry floor — where a bin looks wrong and a basket
+looks deliberate — our
+[best storage baskets and bins for small homes](/best-storage-baskets-small-homes/)
+covers the ten we would buy.

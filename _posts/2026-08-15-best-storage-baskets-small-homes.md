@@ -220,4 +220,6 @@ inside the wardrobe, and the
 [best under-bed storage](/best-under-bed-storage-small-rooms/) covers the one
 space baskets on a shelf can never reach. For the doorway that collects
 everything, the [entryway and mudroom ideas](/entryway-mudroom-ideas/) are the
-place to start.
+place to start, and in the kitchen the same baskets do their best work alongside
+the clear bins in our
+[15 pantry organization ideas](/pantry-organization-ideas/).
