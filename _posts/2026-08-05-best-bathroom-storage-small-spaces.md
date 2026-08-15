@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Best Bathroom Storage Buys for Small Spaces in 2026 (10 Picks)"
-description: "Small bathroom storage ideas that actually fit. We compared the racks, shelves and baskets worth buying for a tiny bathroom — and the 10 that earn their space."
+description: "Small bathroom storage that actually fits, including the no drill options that work in a rental. We compared the racks, shelves and baskets worth buying for a tiny bathroom — and the 10 that earn their space."
 image: /images/best-bathroom-storage-hero.jpg
 pin_image: /images/bathroom-fit-pin-1.jpg
 category: Home
@@ -18,7 +18,9 @@ half the "small bathroom storage" you can buy is useless — it wants floor you
 haven't got.
 
 We compared the storage that works in a genuinely tiny bathroom, sorted by which
-piece of wasted space it claims back. Here are the ten worth your money.
+piece of wasted space it claims back. Here are the ten worth your money — and
+nine of the ten need no drilling at all, which is the difference between a rental
+you can improve and one you can't.
 
 **Short on time? Start with these 3:**
 
