@@ -140,6 +140,40 @@ seconds.
 
 ---
 
+## Common questions
+
+### How do I organise a small laundry room?
+
+Work in stages rather than in furniture. Give sorting, washing, drying and
+folding each one home — a
+[sorter hamper](https://www.amazon.com/s?k=3+section+laundry+sorter+hamper&tag=tamirugc20-20)
+by the door, a rod above the machines, a slim cart in the dead gap. A small
+room feels chaotic when a stage has nowhere to happen, not when it is short of
+square metres.
+
+### What can I put above my washer and dryer?
+
+A hanging rod is the highest-value thing up there, because it turns the wall
+into drying space you were not using. Above that, a single shelf with two or
+three matching baskets holds detergent, pegs and spare bulbs without looking
+like storage. Keep anything heavy off a shelf directly over the machines —
+vibration walks things forward.
+
+### How do I dry clothes without a tumble dryer?
+
+Dry upward. A wall-mounted or over-the-door
+[drying rack](https://www.amazon.com/s?k=over+the+door+drying+rack&tag=tamirugc20-20)
+uses vertical space a floor airer cannot, folds flat between washes, and keeps
+the walkway clear. Pair it with good airflow — a cracked window beats a warm
+closed room for drying time and for damp smells.
+
+### How can I make my laundry room look nicer cheaply?
+
+Fix the lighting first, then decant. A warmer bulb changes the whole room for
+the price of a coffee, and pouring detergent into plain dispensers removes most
+of the visual noise without buying a single storage unit. Those two together do
+more than any shelving project.
+
 {% include pick.html label="Start Here" name="3-Section Laundry Sorter" why="Sorting happens in the two seconds it takes to undress, so wash day starts half-done. Every other idea on this list works better once the pile stops forming." link="https://www.amazon.com/s?k=3+section+laundry+sorter+hamper&tag=tamirugc20-20" %}
 
 You don't need a bigger laundry room — you need every stage of the wash to
